@@ -1,5 +1,0 @@
-ACTOR SpikeBall : BaronBall replaces BaronBall
-{
-Game Doom
-  RenderStyle "Normal"
-}

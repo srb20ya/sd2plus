@@ -1,2 +1,0 @@
-IWAD = "DOOM2.wad"
-STARTUPTITLE = "Placeholder Text - Sonic Doom 2: Return to Mobius"

@@ -1,1 +1,0 @@
-zdoom -deh mecha.bex -file mecha.wad sdoom2.wad -turbo 175

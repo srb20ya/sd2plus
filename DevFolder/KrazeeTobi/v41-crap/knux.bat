@@ -1,1 +1,0 @@
-zdoom -deh knux.bex -file knux.wad sdoom2.wad -turbo 150

@@ -1,1 +1,0 @@
-zdoom -deh tails.bex -file tails.wad sdoom2.wad -turbo 125

@@ -1,9 +1,0 @@
-
-// ??
-
-ACTOR KnucklesFist : RevenantTracer replaces RevenantTracer
-{
-Game Doom
-  RenderStyle "Normal"
-}
-
