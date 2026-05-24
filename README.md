@@ -1,4 +1,4 @@
-# SONIC DOOM 2 PLUS WIP
+# SONIC DOOM 2: PLUS
 Sonic Doom 2: Plus is a modification of Sonic Doom 2 v4.1 in order to finish its full 100 maps.
 > [!NOTE]  
 > You will need to have a copy of 7-Zip installed in order to build the project.
