@@ -33,6 +33,11 @@ Texture GFZROCK, 128, 128
 	Patch GFZROCK, 0, 0
 }
 
+Texture SKY0, 256, 128
+{
+	Patch SKY0, 0, 0
+}
+
 Texture SKY2, 256, 128
 {
 	Patch SKY2, 0, 0
@@ -177,7 +182,7 @@ Texture SKY29, 256, 128
 
 Texture SKY30, 256, 128
 {
-	Patch SKY2, 0, 0
+	Patch SKY29, 0, 0
 }
 
 Texture SKY31, 256, 128
@@ -188,6 +193,106 @@ Texture SKY31, 256, 128
 Texture SKY32, 256, 128
 {
 	Patch SKY2, 0, 0
+}
+
+Texture SKY33, 256, 128
+{
+	Patch SKY33, 0, 0
+}
+
+Texture SKY34, 256, 128
+{
+	Patch SKY33, 0, 0
+}
+
+Texture SKY35, 256, 128
+{
+	Patch SKY35, 0, 0
+}
+
+Texture SKY36, 256, 128
+{
+	Patch SKY35, 0, 0
+}
+
+Texture SKY37, 256, 128
+{
+	Patch SKY37, 0, 0
+}
+
+Texture SKY38, 256, 128
+{
+	Patch SKY37, 0, 0
+}
+
+Texture SKY39, 256, 128
+{
+	Patch SKY39, 0, 0
+}
+
+Texture SKY40, 256, 128
+{
+	Patch SKY39, 0, 0
+}
+
+Texture SKY41, 256, 128
+{
+	Patch SKY41, 0, 0
+}
+
+Texture SKY42, 256, 128
+{
+	Patch SKY41, 0, 0
+}
+
+Texture SKY43, 256, 128
+{
+	Patch SKY43, 0, 0
+}
+
+Texture SKY44, 256, 128
+{
+	Patch SKY43, 0, 0
+}
+
+Texture SKY45, 256, 128
+{
+	Patch SKY45, 0, 0
+}
+
+Texture SKY46, 256, 128
+{
+	Patch SKY45, 0, 0
+}
+
+Texture SKY47, 256, 128
+{
+	Patch SKY47, 0, 0
+}
+
+Texture SKY48, 256, 128
+{
+	Patch SKY47, 0, 0
+}
+
+Texture SKY49, 256, 128
+{
+	Patch SKY47, 0, 0
+}
+
+Texture SKY50, 256, 128
+{
+	Patch SKY50, 0, 0
+}
+
+Texture SKY51, 256, 128
+{
+	Patch SKY50, 0, 0
+}
+
+Texture SKY52, 256, 128
+{
+	Patch SKY52, 0, 0
 }
 
 Texture SPECIAL2, 128, 128
@@ -4136,4 +4241,132 @@ Texture CHTOWER, 64, 128
 	Patch CHTOWER, 32, 64
 }
 
+Texture SWORLD1, 64, 64
+{
+	Patch SWORLD1, 0, 0
+}
+
+Texture SWORLD2, 64, 64
+{
+	Patch SWORLD2, 0, 0
+}
+
+Texture SWORLD3, 64, 64
+{
+	Patch SWORLD3, 0, 0
+}
+
+Texture SWORLD4, 64, 64
+{
+	Patch SWORLD4, 0, 0
+}
+
+Texture SWORLD5, 64, 64
+{
+	Patch SWORLD5, 0, 0
+}
+
+Texture DEZ1, 128, 128
+{
+	Patch DEZ1, 0, 0
+}
+
+Texture DEZ2, 128, 128
+{
+	Patch DEZ2, 0, 0
+}
+
+Texture DEZ3, 128, 128
+{
+	Patch DEZ3, 0, 0
+}
+
+Texture DEZ4, 128, 128
+{
+	Patch DEZ4, 0, 0
+}
+
+Texture DEZ5, 128, 128
+{
+	Patch DEZ5, 0, 0
+}
+
+Texture METRO1, 128, 128
+{
+	Patch METRO1, 0, 0
+}
+
+Texture METRO2, 128, 128
+{
+	Patch METRO2, 0, 0
+}
+
+Texture METRO3, 128, 128
+{
+	Patch METRO3, 0, 0
+}
+
+Texture METRO4, 64, 64
+{
+	Patch METRO4, 0, 0
+	Patch METRO4, 32, 0
+}
+
+Texture METRO5, 128, 128
+{
+	Patch METRO5, 0, 0
+}
+
+Texture METRO6, 128, 128
+{
+	Patch METRO6, 0, 0
+}
+
+Texture METRO7, 64, 64
+{
+	Patch METRO7, 0, 0
+}
+
+Texture METRO8, 64, 64
+{
+	Patch METRO8, 0, 0
+}
+
+Texture WING1, 64, 64
+{
+	Patch WING1, 0, 0
+}
+
+Texture WING2, 64, 64
+{
+	Patch WING2, 0, 0
+}
+
+Texture WING3, 128, 128
+{
+	Patch WING3, 0, 0
+}
+
+Texture WING4, 128, 128
+{
+	Patch WING4, 0, 0
+	Patch WING4, 0, 32
+	Patch WING4, 0, 64
+	Patch WING4, 0, 96
+}
+
+Texture WING5, 64, 64
+{
+	Patch WING5, 0, 0
+}
+
+Texture WING6, 128, 128
+{
+	Patch WING6, 0, 0
+}
+
+Texture WING7, 128, 128
+{
+	Patch WING7, 0, 0
+}
 // End of texture definitions
