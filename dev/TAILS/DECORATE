@@ -1,0 +1,125 @@
+Actor DH_Archvile : Archvile replaces Archvile 64
+{
+	+NOGRAVITY
+	+FLOAT
+	States
+	{
+	}
+}
+
+Actor DH_Arachnotron : Arachnotron replaces Arachnotron 68
+{
+	States
+	{
+	Spawn:
+		BSPI A 10 A_Look
+		BSPI A 3 
+	State_635:
+		BSPI A 3 A_BabyMetal
+		BSPI A 3 A_Chase
+		goto See
+	See:
+		BSPI A 3 
+	State_635:
+		BSPI A 3 A_BabyMetal
+		BSPI A 3 A_Chase
+		goto See
+	Pain:
+		BSPI I 3 
+		BSPI I 3 A_Pain
+		BSPI A 3 
+	State_635:
+		BSPI A 3 A_BabyMetal
+		BSPI A 3 A_Chase
+		goto See
+	Raise:
+		BSPI PONMLKJ 5 
+	State_635:
+		BSPI A 3 A_BabyMetal
+		BSPI A 3 A_Chase
+		BSPI A 3 
+		goto State_635
+	}
+}
+
+Actor DH_WolfensteinSS : WolfensteinSS replaces WolfensteinSS 84
+{
+	Speed 30
+	+NOBLOOD
+	+SKULLFLY
+	States
+	{
+	Melee:
+		SSWV E 10 A_FaceTarget
+	State_737:
+		SSWV F 10 A_FaceTarget
+		SSWV G 4 Bright A_CPosAttack
+		SSWV F 6 A_FaceTarget
+		SSWV G 4 Bright A_CPosAttack
+		SSWV F 1 A_CPosRefire
+		goto State_737
+	Missile:
+		TROO A -1 
+		stop
+	XDeath:
+		TROO A -1 
+		stop
+	}
+}
+
+Actor DH_Rocket : Rocket replaces Rocket -1
+{
+	States
+	{
+	Spawn:
+		BAL2 AB 4 Bright 
+		goto Spawn
+	Death:
+		BAL2 CDE 6 Bright 
+		stop
+	}
+}
+
+Actor DH_PlasmaBall : PlasmaBall replaces PlasmaBall -1
+{
+	States
+	{
+	Spawn:
+		APLS AB 5 Bright 
+		goto Spawn
+	Death:
+		APBX ABCDE 5 Bright 
+		stop
+	}
+}
+
+Actor DH_BFGExtra : BFGExtra replaces BFGExtra -1
+{
+	States
+	{
+	Spawn:
+		FIRE A 2 Bright A_StartFire
+		FIRE BAB 2 Bright A_Fire
+		FIRE C 2 Bright A_FireCrackle
+		FIRE BCBCDCDCDEDED 2 Bright A_Fire
+		FIRE E 2 Bright A_FireCrackle
+		FIRE FEFEFGHGHGH 2 Bright A_Fire
+		stop
+	}
+}
+
+Actor DH_Stalagtite : Stalagtite replaces Stalagtite 47
+{
+	-SOLID
+	States
+	{
+	}
+}
+
+Actor DH_Meat5 : Meat5 replaces Meat5 53
+{
+	-SOLID
+	States
+	{
+	}
+}
