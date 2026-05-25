@@ -4369,4 +4369,84 @@ Texture WING7, 128, 128
 {
 	Patch WING7, 0, 0
 }
+
+// ova pico textures
+// yummy ehz, labyrinth, scrap brain, and.. more.! hahaha! yay! i'm so happy with my labyrinth. gahaha! this time i am Ready for You !
+
+Texture EMHILL1, 128, 128
+{
+	Patch EMHILL1, 0, 0
+}
+
+Texture EMHILL2, 64, 64
+{
+	Patch EMHILL2, 0, 0
+}
+
+Texture LBYR1, 64, 64
+{
+	Patch LBYR1, 0, 0
+}	
+
+Texture MARBL01, 64, 64
+{
+	Patch MARBL01, 0, 0
+}
+
+Texture MARBL02, 64, 64
+{
+	Patch MARBL02, 0, 0
+}
+
+Texture MARBL03, 64, 64
+{
+	Patch MARBL03, 0, 0
+	Patch MARBL03, 0, 32
+}
+
+Texture MARBL04, 128, 128
+{
+	Patch MARBL04, 0, 0
+}
+
+Texture MARBL05, 64, 64
+{
+	Patch MARBL05, 0, 0
+}
+
+// pray 96x96 images work roboblaster :broken_heart:	
+Texture MARBLB1, 96, 96
+{
+	Patch MARBLB1, 0, 0
+}
+
+Texture SCRAP1, 64, 64
+{
+	Patch SCRAP1, 0, 0
+}
+
+Texture SCRAP2, 64, 64
+{
+	Patch SCRAP2, 0, 0
+	Patch SCRAP2, 0, 32
+}
+
+Texture SKY95, 256, 128
+{
+	Patch SKY95, 0, 0
+}
+
+Texture SKY96, 256, 128
+{
+	Patch SKY95, 0, 0
+}
+
+Texture SKY97, 256, 128
+{
+	Patch SKY95, 0, 0
+}
+
+// it's picover...
+// bye, roboblasters... thanks for playing!
+
 // End of texture definitions
