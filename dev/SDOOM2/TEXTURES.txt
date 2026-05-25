@@ -4386,12 +4386,47 @@ Texture EMHILL2, 64, 64
 Texture LBYR1, 64, 64
 {
 	Patch LBYR1, 0, 0
-}	
+}
 
 Texture LBYR2, 64, 64
 {
 	Patch LBYR2, 0, 0
-}	
+}
+
+Texture LBYR3, 64, 64
+{
+	Patch LBYR3, 0, 0
+}
+
+Texture LBYR4, 64, 64
+{
+	Patch LBYR4, 0, 0
+}
+
+Texture LBYR5, 128, 128
+{
+	Patch LBYR5, 0, 0
+}
+
+Texture LBYR6, 64, 64
+{
+	Patch LBYR6, 0, 0
+}
+
+Texture LBYR7, 64, 64
+{
+	Patch LBYR7, 0, 0
+}
+
+Texture LBYR8, 64, 64
+{
+	Patch LBYR8, 0, 0
+}
+
+Texture LBYR9, 64, 64
+{
+	Patch LBYR9, 0, 0
+}
 
 Texture MARBL01, 64, 64
 {
@@ -4436,6 +4471,21 @@ Texture SCRAP2, 64, 64
 	Patch SCRAP2, 0, 32
 }
 
+Texture SKY92, 256, 128
+{
+	Patch SKY92, 0, 0
+}
+
+Texture SKY93, 256, 128
+{
+	Patch SKY92, 0, 0
+}
+
+Texture SKY94, 256, 128
+{
+	Patch SKY92, 0, 0
+}
+
 Texture SKY95, 256, 128
 {
 	Patch SKY95, 0, 0
@@ -4449,6 +4499,13 @@ Texture SKY96, 256, 128
 Texture SKY97, 256, 128
 {
 	Patch SKY95, 0, 0
+}
+
+// is it formatted like this? i dunno roboblasters...
+// sky100? is this real?
+Texture SKYA0, 256, 128
+{
+	Patch SKYA0, 0, 0
 }
 
 // it's picover...
