@@ -10,6 +10,18 @@ defaultmap
 	sucktime = 1
 }
 
+map MAP00 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY0"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
 map MAP01 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
@@ -397,6 +409,869 @@ map MAP32 lookup "HUSTR_32"
         ForceNoSkyStretch
 }
 
+map MAP33 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP34 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP35 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP36 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP37 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP38 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP39 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP40 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP41 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP42 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP43 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP44 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP45 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP46 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP47 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP48 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP49 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP50 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP51 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP52 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP53 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP54 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP55 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP56 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP57 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP58 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP59 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP60 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP61 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP62 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP63 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP64 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP65 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP66 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP67 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP68 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP69 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP70 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP71 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP72 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP73 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP74 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP75 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP76 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP77 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP78 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP79 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP80 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP81 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP82 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP83 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP84 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP85 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP86 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP87 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP88 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP89 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP90 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP91 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP92 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP93 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP94 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP95 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP96 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP97 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP98 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAP99 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAPA0 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAPA1 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAPA2 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAPA3 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
+
+map MAPA4 lookup "HUSTR_1"
+{
+	titlepatch = "CWILV00"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	cluster = 8
+	par = 30
+	music = "$MUSIC_RUNNIN"
+        ForceNoSkyStretch
+}
 // DOOM II first cluster (up thru level 6)
 
 cluster 5
