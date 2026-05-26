@@ -4600,6 +4600,12 @@ Texture CHMPLA3, 128, 128
 	Patch CHMPLA3, 0, 0
 }
 
+Texture CHBG1, 128, 128
+{
+	Patch CHBG1, 0, 0
+}
+
+
 Texture SYZ1, 64, 64
 {
 	Patch SYZ1, 0, 0
