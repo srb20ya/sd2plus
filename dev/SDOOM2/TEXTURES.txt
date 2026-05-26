@@ -4555,7 +4555,7 @@ Texture CHMPL2, 128, 128
 	Patch CHMPL2, 0, 0
 }
 
-Texture CHMPL3, 128, 64
+Texture CHMPL3, 128, 128
 {
 	Patch CHMPL3, 0, 0
 }
@@ -4567,7 +4567,7 @@ Texture CHMPL4, 128, 128
 
 Texture CHMPL5, 128, 128
 {
-	Patch CHMPL5	, 0, 0
+	Patch CHMPL5, 0, 0
 }
 
 Texture CHMPL6, 128, 128
@@ -4575,7 +4575,7 @@ Texture CHMPL6, 128, 128
 	Patch CHMPL6, 0, 0
 }
 
-Texture CHMPL7, 128, 64
+Texture CHMPL7, 128, 128
 {
 	Patch CHMPL7, 0, 0
 }
@@ -4583,16 +4583,6 @@ Texture CHMPL7, 128, 64
 Texture CHMPL8, 128, 128
 {
 	Patch CHMPL8, 0, 0
-}
-
-Texture CHMPL9, 128, 128
-{
-	Patch CHMPL9, 0, 0
-}
-
-Texture CHMPL10, 128, 128
-{
-	Patch CHMPL10, 0, 0
 }
 
 Texture CHMPLA1, 128, 128
