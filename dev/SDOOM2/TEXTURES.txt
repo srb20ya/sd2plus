@@ -4274,6 +4274,29 @@ Texture CHP1, 128, 128
 	Patch CHP1, 0, 64
 }
 
+Texture CHPIPE1, 128, 128
+{
+	Patch CHPIPE1, 0, 0
+}
+
+Texture CHPIPE2, 128, 128
+{
+	Patch CHPIPE2, 0, 0
+	Patch CHPIPE2, 64, 0
+}
+
+Texture CHPIPE3, 128, 128
+{
+	Patch CHPIPE3, 0, 0
+	Patch CHPIPE3, 64, 0
+}
+
+Texture CHPIPE4, 128, 128
+{
+	Patch CHPIPE4, 0, 0
+	Patch CHPIPE4, 64, 0
+}
+
 Texture CHDOOR, 128, 128
 {
 	Patch CHDOOR, 0, 0
@@ -4315,6 +4338,30 @@ Texture CHTOWER, 64, 128
 	Patch CHTOWER, 32, 0
 	Patch CHTOWER, 0, 64
 	Patch CHTOWER, 32, 64
+}
+
+
+Texture SW1CHEM, 128, 128
+{
+	Patch CHMETAL, 0, 0
+	Patch CHMETAL, 0, 32
+	Patch CHMETAL, 0, 64
+	Patch CHMETAL, 0, 96
+	Patch DBUTNO, 32, 32
+}
+
+Texture SW2CHEM, 128, 128
+{
+	Patch CHMETAL, 0, 0
+	Patch CHMETAL, 0, 32
+	Patch CHMETAL, 0, 64
+	Patch CHMETAL, 0, 96
+	Patch DBUTYES, 32, 32
+}
+
+Texture ARUIN1, 64, 64
+{
+	Patch ARUIN1, 0, 0
 }
 
 Texture SWORLD1, 64, 64
