@@ -4533,6 +4533,11 @@ Texture SSB4, 256, 64
 	Patch SSB4, 0, 0
 }
 
+Texture SSB5, 64, 64
+{
+	Patch SSB5, 0, 0
+}
+
 // Sorry mate but I don't want to segregate the textures
 
 Texture EMHILL1, 128, 128

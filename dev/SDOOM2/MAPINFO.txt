@@ -789,7 +789,7 @@ map MAP59 lookup "HUSTR_1"
 	secretnext = "MAP60"
 	sky1 = "SKY59"
 	cluster = 8
-	par = 30
+	par = 65
 	music = "D_SSZ_B_US"
         ForceNoSkyStretch
 }
