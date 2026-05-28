@@ -4677,7 +4677,27 @@ Texture SYZ1, 64, 64
 	Patch SYZ1, 0, 0
 }
 
+Texture PPANIC1, 64, 64
+{
+	Patch PPANIC1, 0, 0
+}	
+
+Texture PPANIC2, 64, 64
+{
+	Patch PPANIC2, 0, 0
+}	
+
+Texture PPANIC3, 64, 64
+{
+	Patch PPANIC3, 0, 0
+}
+
 // skies
+
+Texture SKY53, 256, 128
+{
+	Patch SKY53, 0, 0
+}
 
 Texture SKY92, 256, 128
 {

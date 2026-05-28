@@ -704,15 +704,15 @@ map MAP52 lookup "HUSTR_1"
 }
 
 // Palmtree Panic
-map MAP53 lookup "HUSTR_1"
+map MAP53 lookup "HUSTR_53"
 {
 	titlepatch = "CWILV00"
 	next = "MAP54"
 	secretnext = "MAP54"
-	sky1 = "SKY1"
+	sky1 = "SKY53"
 	cluster = 8
 	par = 30
-	music = "D_PPZ_JP"
+	music = "D_PAPNC1"
         ForceNoSkyStretch
 }
 
