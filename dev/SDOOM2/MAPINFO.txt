@@ -707,12 +707,12 @@ map MAP52 lookup "HUSTR_1"
 map MAP53 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "MAP54"
+	secretnext = "MAP54"
 	sky1 = "SKY1"
 	cluster = 8
 	par = 30
-	music = "D_ICZ"
+	music = "D_PPZ_JP"
         ForceNoSkyStretch
 }
 
@@ -720,12 +720,12 @@ map MAP53 lookup "HUSTR_1"
 map MAP54 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "MAP55"
+	secretnext = "MAP55"
 	sky1 = "SKY1"
 	cluster = 8
 	par = 30
-	music = "D_ICZ"
+	music = "D_CCZ_P_JP"
         ForceNoSkyStretch
 }
 
@@ -733,12 +733,12 @@ map MAP54 lookup "HUSTR_1"
 map MAP55 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "MAP56"
+	secretnext = "MAP56"
 	sky1 = "SKY1"
 	cluster = 8
 	par = 30
-	music = "D_ICZ"
+	music = "D_TTZ_G_JP"
         ForceNoSkyStretch
 }
 
@@ -746,12 +746,12 @@ map MAP55 lookup "HUSTR_1"
 map MAP56 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "MAP57"
+	secretnext = "MAP57"
 	sky1 = "SKY1"
 	cluster = 8
 	par = 30
-	music = "D_ICZ"
+	music = "D_QQZ_B_JP"
         ForceNoSkyStretch
 }
 
@@ -759,12 +759,12 @@ map MAP56 lookup "HUSTR_1"
 map MAP57 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "MAP58"
+	secretnext = "MAP58"
 	sky1 = "SKY1"
 	cluster = 8
 	par = 30
-	music = "D_ICZ"
+	music = "D_WWZ_JP"
         ForceNoSkyStretch
 }
 
@@ -772,12 +772,12 @@ map MAP57 lookup "HUSTR_1"
 map MAP58 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "MAP59"
+	secretnext = "MAP59"
 	sky1 = "SKY1"
 	cluster = 8
 	par = 30
-	music = "D_ICZ"
+	music = "D_SSZ_G_JP"
         ForceNoSkyStretch
 }
 
@@ -785,12 +785,12 @@ map MAP58 lookup "HUSTR_1"
 map MAP59 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
-	next = "MAP01"
-	secretnext = "MAP01"
-	sky1 = "SKY1"
+	next = "MAP60"
+	secretnext = "MAP60"
+	sky1 = "SKY59"
 	cluster = 8
 	par = 30
-	music = "D_ICZ"
+	music = "D_SSZ_B_US"
         ForceNoSkyStretch
 }
 
@@ -798,12 +798,12 @@ map MAP59 lookup "HUSTR_1"
 map MAP60 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "MAP61"
+	secretnext = "MAP61"
 	sky1 = "SKY1"
 	cluster = 8
 	par = 30
-	music = "D_ICZ"
+	music = "D_MMZ_G_JP"
         ForceNoSkyStretch
 }
 
@@ -811,8 +811,8 @@ map MAP60 lookup "HUSTR_1"
 map MAP61 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "MAP62"
+	secretnext = "MAP62"
 	sky1 = "SKY1"
 	cluster = 8
 	par = 30
@@ -824,8 +824,8 @@ map MAP61 lookup "HUSTR_1"
 map MAP62 lookup "HUSTR_1"
 {
 	titlepatch = "CWILV00"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "MAP63"
+	secretnext = "MAP63"
 	sky1 = "SKY1"
 	cluster = 8
 	par = 30
@@ -1433,4 +1433,10 @@ cluster 10
 	flat = "$BGFLAT31"
 	music = "D_READ_M"
 	entertext = "I'm proud of this level.", "Just look at the automap."
+}
+
+DoomEdNums
+{
+    100 = SSZBDecoA
+    101 = SSZBDecoB
 }
