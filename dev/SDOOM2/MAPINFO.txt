@@ -608,7 +608,7 @@ map MAP45 lookup "HUSTR_1"
 	sky1 = "SKY45"
 	cluster = 8
 	par = 30
-	music = "D_ICZ"
+	music = "D_OOZ1"
         ForceNoSkyStretch
 }
 
@@ -621,7 +621,7 @@ map MAP46 lookup "HUSTR_1"
 	sky1 = "SKY46"
 	cluster = 8
 	par = 30
-	music = "D_ICZ"
+	music = "D_OOZ2"
         ForceNoSkyStretch
 }
 
