@@ -4274,6 +4274,29 @@ Texture CHP1, 128, 128
 	Patch CHP1, 0, 64
 }
 
+Texture CHPIPE1, 128, 128
+{
+	Patch CHPIPE1, 0, 0
+}
+
+Texture CHPIPE2, 128, 128
+{
+	Patch CHPIPE2, 0, 0
+	Patch CHPIPE2, 64, 0
+}
+
+Texture CHPIPE3, 128, 128
+{
+	Patch CHPIPE3, 0, 0
+	Patch CHPIPE3, 64, 0
+}
+
+Texture CHPIPE4, 128, 128
+{
+	Patch CHPIPE4, 0, 0
+	Patch CHPIPE4, 64, 0
+}
+
 Texture CHDOOR, 128, 128
 {
 	Patch CHDOOR, 0, 0
@@ -4315,6 +4338,30 @@ Texture CHTOWER, 64, 128
 	Patch CHTOWER, 32, 0
 	Patch CHTOWER, 0, 64
 	Patch CHTOWER, 32, 64
+}
+
+
+Texture SW1CHEM, 128, 128
+{
+	Patch CHMETAL, 0, 0
+	Patch CHMETAL, 0, 32
+	Patch CHMETAL, 0, 64
+	Patch CHMETAL, 0, 96
+	Patch DBUTNO, 32, 32
+}
+
+Texture SW2CHEM, 128, 128
+{
+	Patch CHMETAL, 0, 0
+	Patch CHMETAL, 0, 32
+	Patch CHMETAL, 0, 64
+	Patch CHMETAL, 0, 96
+	Patch DBUTYES, 32, 32
+}
+
+Texture ARUIN1, 64, 64
+{
+	Patch ARUIN1, 0, 0
 }
 
 Texture SWORLD1, 64, 64
@@ -4466,8 +4513,32 @@ Texture GHZ4, 64, 64
 	Patch GHZ4, 0, 0
 }	
 
-// ova pico textures
-// yummy ehz, labyrinth, scrap brain, and.. more.! hahaha! yay! i'm so happy with my labyrinth. gahaha! this time i am Ready for You !
+Texture SSB1, 128, 128
+{
+	Patch SSB1, 0, 0
+}
+
+Texture SSB2, 64, 64
+{
+	Patch SSB2, 0, 0
+}
+
+Texture SSB3, 128, 128
+{
+	Patch SSB3, 0, 0
+}
+
+Texture SSB4, 256, 64
+{
+	Patch SSB4, 0, 0
+}
+
+Texture SSB5, 64, 64
+{
+	Patch SSB5, 0, 0
+}
+
+// Sorry mate but I don't want to segregate the textures
 
 Texture EMHILL1, 128, 128
 {
@@ -4611,7 +4682,27 @@ Texture SYZ1, 64, 64
 	Patch SYZ1, 0, 0
 }
 
+Texture PPANIC1, 64, 64
+{
+	Patch PPANIC1, 0, 0
+}	
+
+Texture PPANIC2, 64, 64
+{
+	Patch PPANIC2, 0, 0
+}	
+
+Texture PPANIC3, 64, 64
+{
+	Patch PPANIC3, 0, 0
+}
+
 // skies
+
+Texture SKY53, 256, 128
+{
+	Patch SKY53, 0, 0
+}
 
 Texture SKY92, 256, 128
 {
