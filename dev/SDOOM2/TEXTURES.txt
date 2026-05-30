@@ -4550,6 +4550,16 @@ Texture EMHILL2, 64, 64
 	Patch EMHILL2, 0, 0
 }
 
+Texture EMHILL3, 128, 128
+{
+	Patch EMHILL3, 0, 0
+}
+
+Texture EMHILL4, 64, 64
+{
+	Patch EMHILL4, 0, 0
+}
+
 Texture LBYR1, 64, 64
 {
 	Patch LBYR1, 0, 0
