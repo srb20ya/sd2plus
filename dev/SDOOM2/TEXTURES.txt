@@ -192,7 +192,7 @@ Texture SKY31, 256, 128
 
 Texture SKY32, 256, 128
 {
-	Patch SKY2, 0, 0
+	Patch SKY32, 0, 0
 }
 
 Texture SKY33, 256, 128
@@ -374,6 +374,31 @@ Texture SKYA0, 256, 128
 Texture SPECIAL2, 128, 128
 {
 	Patch SPECIAL2, 0, 0
+}
+
+Texture SPECIAL3, 64, 64
+{
+	Patch SPECIAL3, 0, 0
+}
+
+Texture SPECIAL4, 64, 64
+{
+	Patch SPECIAL4, 0, 0
+}
+
+Texture SPECIAL5, 64, 64
+{
+	Patch SPECIAL5, 0, 0
+}
+
+Texture SPECIAL6, 64, 64
+{
+	Patch SPECIAL6, 0, 0
+}
+
+Texture SPECIAL7, 64, 64
+{
+	Patch SPECIAL7, 0, 0
 }
 
 Texture YLW, 16, 8
