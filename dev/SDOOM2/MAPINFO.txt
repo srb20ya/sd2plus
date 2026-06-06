@@ -420,6 +420,8 @@ map MAP30 lookup "HUSTR_30"
 	par = 180
 	allowmonstertelefrags
 	music = "D_DEZ2"
+	specialaction = "SpiderMastermind", "Door_Open", 666, 64
+	specialaction = "Fatso", "Exit_Normal", 0
         ForceNoSkyStretch
 }
 
