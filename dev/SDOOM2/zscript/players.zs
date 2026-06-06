@@ -57,10 +57,13 @@ class SD2SonicPlayer : SD2Player
 	override void PostBeginPlay()
 	{
 		Super.PostBeginPlay();
-		SD2SetAmmoCapacity("Clip", 100);
-		SD2SetAmmoCapacity("Shell", 30);
-		SD2SetAmmoCapacity("RocketAmmo", 30);
-		SD2SetAmmoCapacity("Cell", 150);
+		if (self.player && self.player.mo == self) // Voodoo doll check (Thanks, ZDoom wiki!)
+		{
+			SD2SetAmmoCapacity("Clip", 100);
+			SD2SetAmmoCapacity("Shell", 30);
+			SD2SetAmmoCapacity("RocketAmmo", 30);
+			SD2SetAmmoCapacity("Cell", 150);
+		}
 	}
 	
 	States
@@ -236,10 +239,13 @@ class SD2MechaPlayer : SD2Player
 	override void PostBeginPlay()
 	{
 		Super.PostBeginPlay();
-		SD2SetAmmoCapacity("Clip", 300);
-		SD2SetAmmoCapacity("Shell", 75);
-		SD2SetAmmoCapacity("RocketAmmo", 75);
-		SD2SetAmmoCapacity("Cell", 450);
+		if (self.player && self.player.mo == self) // Voodoo doll check (Thanks, ZDoom wiki!)
+		{
+			SD2SetAmmoCapacity("Clip", 300);
+			SD2SetAmmoCapacity("Shell", 75);
+			SD2SetAmmoCapacity("RocketAmmo", 75);
+			SD2SetAmmoCapacity("Cell", 450);
+		}
 	}
 
 	States
