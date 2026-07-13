@@ -300,6 +300,12 @@ Texture SKY83, 256, 128
 	Patch SKY83, 0, 0
 }
 
+Texture SKY83_2, 256, 128
+{
+	Patch SKY83_2, 0, 0
+}
+
+
 Texture SKY84, 256, 128
 {
 	Patch SKY83, 0, 0
@@ -4537,6 +4543,102 @@ Texture GHZ4, 64, 64
 {
 	Patch GHZ4, 0, 0
 }	
+
+Texture GHZ5, 256, 256
+{
+	Patch GHZ5, 0, 0
+}	
+
+Texture GHZ6, 64, 64
+{
+	Patch GHZ6, 0, 0
+}	
+
+Texture GHZ7, 256, 256
+{
+	Patch GHZ7, 0, 0
+}	
+
+Texture GHZ7B, 256, 768
+{
+	Patch GHZ7, 0, 0
+	Patch GHZ5, 0, 256
+	Patch GHZ5, 0, 512
+}	
+
+Texture GHZ8, 128, 128
+{
+	Patch GHZ8, 0, 0
+}	
+
+Texture GHZ9, 64, 64
+{
+	Patch GHZ9, 0, 0
+}	
+
+Texture GHZ10, 64, 64
+{
+	Patch GHZ10, 0, 0
+}	
+
+Texture GFALL1, 256, 256
+{
+	Patch GFALL1, 0, 0
+}
+
+Texture GFALL2, 256, 256
+{
+	Patch GFALL2, 0, 0
+}
+
+Texture GFALL3, 256, 256
+{
+	Patch GFALL3, 0, 0
+}
+
+Texture GFALL4, 256, 256
+{
+	Patch GFALL4, 0, 0
+}
+
+
+Texture GFALLT1, 256, 256
+{
+	Patch GFALLT1, 0, 0
+}
+
+Texture GFALLT2, 256, 256
+{
+	Patch GFALLT2, 0, 0
+}
+
+Texture GFALLT3, 256, 256
+{
+	Patch GFALLT3, 0, 0
+}
+
+Texture GFALLT4, 256, 256
+{
+	Patch GFALLT4, 0, 0
+}
+
+Texture SW1GREN, 128, 128
+{
+	Patch GHZ1, 0, 0
+	Patch GHZ1, 64, 0
+	Patch GHZ1, 0, 64
+	Patch GHZ1, 64, 64
+	Patch DBUTNO, 32, 32
+}
+
+Texture SW2GREN, 128, 128
+{
+	Patch GHZ1, 0, 0
+	Patch GHZ1, 64, 0
+	Patch GHZ1, 0, 64
+	Patch GHZ1, 64, 64
+	Patch DBUTYES, 32, 32
+}
 
 Texture SSB1, 128, 128
 {

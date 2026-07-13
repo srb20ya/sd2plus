@@ -60,3 +60,92 @@ class GHZDecoA : Actor
 		    Loop;
 	}
 }
+
+class GHZDecoB : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    GHZB A 10;
+		    Loop;
+	}
+}
+
+class GHZDecoC : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    GHZC A 10;
+			GHZC B 10;
+			GHZC C 10;
+		    Loop;
+	}
+}
+
+class GHZDecoD : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    GHZD A 10;
+			GHZD B 10;
+		    Loop;
+	}
+}
+
+class GHZDecoE : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    GHZD C 10;
+			GHZD D 10;
+		    Loop;
+	}
+}
+
+class GHZSign : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        +SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    GHZE A 10;
+		    Loop;
+	}
+}

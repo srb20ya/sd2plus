@@ -1,3 +1,5 @@
+// TODO: Make custom CWILV lumps for the new levels (past MAP31)
+
 clearepisodes
 episode map01
 {
@@ -441,11 +443,11 @@ map MAP31 lookup "HUSTR_31"
 // Special Stage
 map MAP32 lookup "HUSTR_32"
 {
-	titlepatch = "CWILV31"
+	titlepatch = "CWILV00"
 	next = "MAP33"
 	secretnext = "MAP33"
 	sky1 = "SKY32"
-	cluster = 10
+	cluster = 9
 	par = 30
 	music = "D_SPEC3"
         ForceNoSkyStretch
@@ -458,7 +460,7 @@ map MAP33 lookup "HUSTR_33"
 	next = "MAP34"
 	secretnext = "MAP34"
 	sky1 = "SKY33"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_EHZ"
         ForceNoSkyStretch
@@ -471,7 +473,7 @@ map MAP34 lookup "HUSTR_34"
 	next = "MAP35"
 	secretnext = "MAP35"
 	sky1 = "SKY34"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_EMHLL2"
         ForceNoSkyStretch
@@ -484,7 +486,7 @@ map MAP35 lookup "HUSTR_35"
 	next = "MAP36"
 	secretnext = "MAP36"
 	sky1 = "SKY35"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_CPZ1"
         ForceNoSkyStretch
@@ -497,7 +499,7 @@ map MAP36 lookup "HUSTR_36"
 	next = "MAP37"
 	secretnext = "MAP37"
 	sky1 = "SKY36"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_CPZ2"
         ForceNoSkyStretch
@@ -510,7 +512,7 @@ map MAP37 lookup "HUSTR_37"
 	next = "MAP38"
 	secretnext = "MAP38"
 	sky1 = "SKY37"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_ARZ1"
         ForceNoSkyStretch
@@ -523,7 +525,7 @@ map MAP38 lookup "HUSTR_38"
 	next = "MAP39"
 	secretnext = "MAP39"
 	sky1 = "SKY38"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_ARZ2"
         ForceNoSkyStretch
@@ -536,7 +538,7 @@ map MAP39 lookup "HUSTR_39"
 	next = "MAP40"
 	secretnext = "MAP40"
 	sky1 = "SKY39"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_CASINO1"
         ForceNoSkyStretch
@@ -549,7 +551,7 @@ map MAP40 lookup "HUSTR_40"
 	next = "MAP41"
 	secretnext = "MAP41"
 	sky1 = "SKY40"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_CASINO2"
         ForceNoSkyStretch
@@ -562,7 +564,7 @@ map MAP41 lookup "HUSTR_1"
 	next = "MAP42"
 	secretnext = "MAP42"
 	sky1 = "SKY41"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_HTZ1"
         ForceNoSkyStretch
@@ -575,7 +577,7 @@ map MAP42 lookup "HUSTR_1"
 	next = "MAP43"
 	secretnext = "MAP43"
 	sky1 = "SKY42"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_HTZ2"
         ForceNoSkyStretch
@@ -588,7 +590,7 @@ map MAP43 lookup "HUSTR_1"
 	next = "MAP44"
 	secretnext = "MAP44"
 	sky1 = "SKY43"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -601,7 +603,7 @@ map MAP44 lookup "HUSTR_1"
 	next = "MAP45"
 	secretnext = "MAP45"
 	sky1 = "SKY44"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -614,7 +616,7 @@ map MAP45 lookup "HUSTR_1"
 	next = "MAP46"
 	secretnext = "MAP46"
 	sky1 = "SKY45"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_OOZ1"
         ForceNoSkyStretch
@@ -627,7 +629,7 @@ map MAP46 lookup "HUSTR_1"
 	next = "MAP47"
 	secretnext = "MAP47"
 	sky1 = "SKY46"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_OOZ2"
         ForceNoSkyStretch
@@ -640,7 +642,7 @@ map MAP47 lookup "HUSTR_47"
 	next = "MAP48"
 	secretnext = "MAP48"
 	sky1 = "SKY47"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -653,7 +655,7 @@ map MAP48 lookup "HUSTR_48"
 	next = "MAP49"
 	secretnext = "MAP49"
 	sky1 = "SKY48"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -666,7 +668,7 @@ map MAP49 lookup "HUSTR_49"
 	next = "MAP50"
 	secretnext = "MAP50"
 	sky1 = "SKY49"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -679,7 +681,7 @@ map MAP50 lookup "HUSTR_1"
 	next = "MAP51"
 	secretnext = "MAP51"
 	sky1 = "SKY50"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -692,7 +694,7 @@ map MAP51 lookup "HUSTR_1"
 	next = "MAP52"
 	secretnext = "MAP52"
 	sky1 = "SKY51"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -705,7 +707,7 @@ map MAP52 lookup "HUSTR_1"
 	next = "MAP53"
 	secretnext = "MAP53"
 	sky1 = "SKY52"
-	cluster = 8
+	cluster = 10
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -718,7 +720,7 @@ map MAP53 lookup "HUSTR_53"
 	next = "MAP54"
 	secretnext = "MAP54"
 	sky1 = "SKY53"
-	cluster = 8
+	cluster = 11
 	par = 30
 	music = "D_PAPNC1"
         ForceNoSkyStretch
@@ -731,7 +733,7 @@ map MAP54 lookup "HUSTR_1"
 	next = "MAP55"
 	secretnext = "MAP55"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 11
 	par = 30
 	music = "D_CCZ_P_JP"
         ForceNoSkyStretch
@@ -744,7 +746,7 @@ map MAP55 lookup "HUSTR_1"
 	next = "MAP56"
 	secretnext = "MAP56"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 11
 	par = 30
 	music = "D_TTZ_G_JP"
         ForceNoSkyStretch
@@ -757,7 +759,7 @@ map MAP56 lookup "HUSTR_1"
 	next = "MAP57"
 	secretnext = "MAP57"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 11
 	par = 30
 	music = "D_QQZ_B_JP"
         ForceNoSkyStretch
@@ -770,7 +772,7 @@ map MAP57 lookup "HUSTR_1"
 	next = "MAP58"
 	secretnext = "MAP58"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 11
 	par = 30
 	music = "D_WWZ_JP"
         ForceNoSkyStretch
@@ -783,7 +785,7 @@ map MAP58 lookup "HUSTR_1"
 	next = "MAP59"
 	secretnext = "MAP59"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 11
 	par = 30
 	music = "D_SSZ_G_JP"
         ForceNoSkyStretch
@@ -796,7 +798,7 @@ map MAP59 lookup "HUSTR_1"
 	next = "MAP60"
 	secretnext = "MAP60"
 	sky1 = "SKY59"
-	cluster = 8
+	cluster = 11
 	par = 65
 	music = "D_SSZ_B_US"
         ForceNoSkyStretch
@@ -809,7 +811,7 @@ map MAP60 lookup "HUSTR_1"
 	next = "MAP61"
 	secretnext = "MAP61"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 11
 	par = 30
 	music = "D_MMZ_G_JP"
         ForceNoSkyStretch
@@ -822,7 +824,7 @@ map MAP61 lookup "HUSTR_1"
 	next = "MAP62"
 	secretnext = "MAP62"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 11
 	par = 30
 	music = "D_SPEC4"
         ForceNoSkyStretch
@@ -835,7 +837,7 @@ map MAP62 lookup "HUSTR_1"
 	next = "MAP63"
 	secretnext = "MAP63"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 12
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -848,7 +850,7 @@ map MAP63 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 12
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -861,7 +863,7 @@ map MAP64 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 12
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -874,7 +876,7 @@ map MAP65 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 12
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -887,7 +889,7 @@ map MAP66 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 12
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -901,7 +903,7 @@ map MAP67 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 12
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -914,7 +916,7 @@ map MAP68 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 12
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -927,7 +929,7 @@ map MAP69 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 12
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -940,7 +942,7 @@ map MAP70 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 12
 	par = 30
 	music = "D_SPEC5"
         ForceNoSkyStretch
@@ -953,7 +955,7 @@ map MAP71 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 13
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -966,7 +968,7 @@ map MAP72 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 13
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -979,7 +981,7 @@ map MAP73 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 13
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -992,7 +994,7 @@ map MAP74 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 13
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1005,7 +1007,7 @@ map MAP75 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 13
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1018,7 +1020,7 @@ map MAP76 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 13
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1031,7 +1033,7 @@ map MAP77 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 14
 	par = 30
 	music = "D_SPEC6"
         ForceNoSkyStretch
@@ -1044,7 +1046,7 @@ map MAP78 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 14
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1057,7 +1059,7 @@ map MAP79 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 14
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1070,7 +1072,7 @@ map MAP80 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 14
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1083,7 +1085,7 @@ map MAP81 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 14
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1096,7 +1098,7 @@ map MAP82 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 14
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1109,7 +1111,7 @@ map MAP83 lookup "HUSTR_83"
 	next = "MAP84"
 	secretnext = "MAP84"
 	sky1 = "SKY83"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_GHZ1"
         ForceNoSkyStretch
@@ -1122,7 +1124,7 @@ map MAP84 lookup "HUSTR_84"
 	next = "MAP85"
 	secretnext = "MAP85"
 	sky1 = "SKY84"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_GHZ2"
         ForceNoSkyStretch
@@ -1135,7 +1137,7 @@ map MAP85 lookup "HUSTR_85"
 	next = "MAP86"
 	secretnext = "MAP86"
 	sky1 = "SKY85"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_GHZ3"
         ForceNoSkyStretch
@@ -1148,7 +1150,7 @@ map MAP86 lookup "HUSTR_1"
 	next = "MAP87"
 	secretnext = "MAP87"
 	sky1 = "SKY86"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1161,7 +1163,7 @@ map MAP87 lookup "HUSTR_1"
 	next = "MAP88"
 	secretnext = "MAP88"
 	sky1 = "SKY87"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1174,7 +1176,7 @@ map MAP88 lookup "HUSTR_1"
 	next = "MAP89"
 	secretnext = "MAP89"
 	sky1 = "SKY88"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1187,7 +1189,7 @@ map MAP89 lookup "HUSTR_1"
 	next = "MAP90"
 	secretnext = "MAP90"
 	sky1 = "SKY89"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1200,7 +1202,7 @@ map MAP90 lookup "HUSTR_1"
 	next = "MAP91"
 	secretnext = "MAP91"
 	sky1 = "SKY90"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1213,7 +1215,7 @@ map MAP91 lookup "HUSTR_1"
 	next = "MAP92"
 	secretnext = "MAP92"
 	sky1 = "SKY91"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1226,7 +1228,7 @@ map MAP92 lookup "HUSTR_92"
 	next = "MAP93"
 	secretnext = "MAP93"
 	sky1 = "SKY92"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_LABY1"
         ForceNoSkyStretch
@@ -1239,7 +1241,7 @@ map MAP93 lookup "HUSTR_93"
 	next = "MAP94"
 	secretnext = "MAP94"
 	sky1 = "SKY93"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_LABY2"
         ForceNoSkyStretch
@@ -1252,7 +1254,7 @@ map MAP94 lookup "HUSTR_94"
 	next = "MAP95"
 	secretnext = "MAP95"
 	sky1 = "SKY94"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1265,7 +1267,7 @@ map MAP95 lookup "HUSTR_1"
 	next = "MAP96"
 	secretnext = "MAP96"
 	sky1 = "SKY95"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1278,7 +1280,7 @@ map MAP96 lookup "HUSTR_1"
 	next = "MAP97"
 	secretnext = "MAP97"
 	sky1 = "SKY96"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1291,7 +1293,7 @@ map MAP97 lookup "HUSTR_1"
 	next = "MAP98"
 	secretnext = "MAP98"
 	sky1 = "SKY97"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1304,7 +1306,7 @@ map MAP98 lookup "HUSTR_1"
 	next = "MAP99"
 	secretnext = "MAP99"
 	sky1 = "SKY98"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_SCRAPB1"
         ForceNoSkyStretch
@@ -1317,7 +1319,7 @@ map MAP99 lookup "HUSTR_1"
 	next = "MAPA0"
 	secretnext = "MAPA0"
 	sky1 = "SKY99"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_SCRAPB2"
         ForceNoSkyStretch
@@ -1330,7 +1332,7 @@ map MAPA0 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKYA0"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_SCRAPB3"
         ForceNoSkyStretch
@@ -1343,7 +1345,7 @@ map MAPA1 lookup "HUSTR_1"
 	next = "EndGameC"
 	secretnext = "EndGameC"
 	sky1 = "SKYA1"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_FINZON"
         ForceNoSkyStretch
@@ -1356,7 +1358,7 @@ map MAPA2 lookup "HUSTR_102"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKYA2"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_BOB"
         ForceNoSkyStretch
@@ -1369,7 +1371,7 @@ map MAPA3 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1382,7 +1384,7 @@ map MAPA4 lookup "HUSTR_1"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
-	cluster = 8
+	cluster = 15
 	par = 30
 	music = "D_ICZ"
         ForceNoSkyStretch
@@ -1425,27 +1427,71 @@ cluster 8
 	exittext = lookup, "C4TEXT"
 }
 
-// DOOM II fifth cluster (level 31)
+// Post-Angel Island cluster
 
 cluster 9
 {
 	flat = "$BGFLAT15"
 	music = "D_READ_M"
-	entertext = "It's time to go back to the future!"
+	entertext = "Congratulations! You have defeated Dr. Eggman once again on Angel Island. Placeholder text bla bla bla go to Knuckles Zone"
 }
 
-// DOOM II sixth cluster (level 32)
+// Sonic 2 cluster
 
 cluster 10
 {
 	flat = "$BGFLAT31"
 	music = "D_READ_M"
-	entertext = "I'm proud of this level.", "Just look at the automap."
+	entertext = "You have taken a warp through the special dimension to end up at West Side Island Placeholder text bla bla bla go to Emerald Hill"
 }
+
+cluster 11
+{
+	flat = "$BGFLAT31"
+	music = "D_READ_M"
+	entertext = "You have gone to the mysterious Miracle Planet Placeholder text bla bla bla go to Palmtree Panic"
+}
+
+cluster 12
+{
+	flat = "$BGFLAT31"
+	music = "D_READ_M"
+	entertext = "You have gone to Chaotix Placeholder text bla bla bla go to Isolated Island"
+}
+
+cluster 13
+{
+	flat = "$BGFLAT31"
+	music = "D_READ_M"
+	entertext = "You have gone to the Sonic OVA Placeholder text bla bla bla go to South Island"
+}
+
+cluster 14
+{
+	flat = "$BGFLAT31"
+	music = "D_READ_M"
+	entertext = "You are gonna take a break in the special dimension yet again Placeholder text bla bla bla go to Sonic 2 Special Stage"
+}
+
+cluster 15
+{
+	flat = "$BGFLAT31"
+	music = "D_READ_M"
+	entertext = "You have gone to South Island Placeholder text bla bla bla go to Green Hill 1"
+}
+
+
 
 DoomEdNums
 {
+	// Stardust Speedway (Bad Future)
     100 = "SSZBDecoA"
     101 = "SSZBDecoB"
+	// Green Hill
 	102 = "GHZDecoA"
+	103 = "GHZDecoB"
+	104 = "GHZDecoC"
+	105 = "GHZDecoD"
+	106 = "GHZDecoE"
+	107 = "GHZSign"
 }
