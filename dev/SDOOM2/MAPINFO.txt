@@ -732,7 +732,7 @@ map MAP54 lookup "HUSTR_1"
 	titlepatch = "CWILV00"
 	next = "MAP55"
 	secretnext = "MAP55"
-	sky1 = "SKY1"
+	sky1 = "SKY54"
 	cluster = 11
 	par = 30
 	music = "D_CCZ_P_JP"
@@ -745,7 +745,7 @@ map MAP55 lookup "HUSTR_1"
 	titlepatch = "CWILV00"
 	next = "MAP56"
 	secretnext = "MAP56"
-	sky1 = "SKY1"
+	sky1 = "SKY55"
 	cluster = 11
 	par = 30
 	music = "D_TTZ_G_JP"
@@ -758,7 +758,7 @@ map MAP56 lookup "HUSTR_1"
 	titlepatch = "CWILV00"
 	next = "MAP57"
 	secretnext = "MAP57"
-	sky1 = "SKY1"
+	sky1 = "SKY56"
 	cluster = 11
 	par = 30
 	music = "D_QQZ_B_JP"
@@ -771,7 +771,7 @@ map MAP57 lookup "HUSTR_1"
 	titlepatch = "CWILV00"
 	next = "MAP58"
 	secretnext = "MAP58"
-	sky1 = "SKY1"
+	sky1 = "SKY57"
 	cluster = 11
 	par = 30
 	music = "D_WWZ_JP"
@@ -784,7 +784,7 @@ map MAP58 lookup "HUSTR_1"
 	titlepatch = "CWILV00"
 	next = "MAP59"
 	secretnext = "MAP59"
-	sky1 = "SKY1"
+	sky1 = "SKY58"
 	cluster = 11
 	par = 30
 	music = "D_SSZ_G_JP"
@@ -810,7 +810,7 @@ map MAP60 lookup "HUSTR_1"
 	titlepatch = "CWILV00"
 	next = "MAP61"
 	secretnext = "MAP61"
-	sky1 = "SKY1"
+	sky1 = "SKY60"
 	cluster = 11
 	par = 30
 	music = "D_MMZ_G_JP"
