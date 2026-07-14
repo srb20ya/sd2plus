@@ -4665,6 +4665,41 @@ Texture SSB5, 64, 64
 	Patch SSB5, 0, 0
 }
 
+Texture MMG1, 256, 256
+{ 
+	Patch MMG1, 0, 0
+}
+
+Texture MMG2, 256, 256
+{ 
+	Patch MMG2, 0, 0
+}
+
+Texture MMG3, 96, 128
+{ 
+	Patch MMG3, 0, 0
+}
+
+Texture MMG4, 128, 128
+{ 
+	Patch MMG4, 0, 0
+}
+
+Texture MMG5, 128, 128
+{ 
+	Patch MMG5, 0, 0
+}
+
+Texture MMG6, 64, 64
+{ 
+	Patch MMG6, 0, 0
+}
+
+Texture MMG7, 64, 64
+{ 
+	Patch MMG7, 0, 0
+}
+
 // Sorry mate but I don't want to segregate the textures
 
 Texture EMHILL1, 128, 128
@@ -4685,6 +4720,56 @@ Texture EMHILL3, 128, 128
 Texture EMHILL4, 64, 64
 {
 	Patch EMHILL4, 0, 0
+}
+
+Texture EMHILL5, 128, 128
+{
+	Patch EMHILL5, 0, 0
+}
+
+Texture EMHILL6, 128, 128
+{
+	Patch EMHILL6, 0, 0
+}
+
+Texture EHFALL1, 128, 128
+{
+	Patch EHFALL1, 0, 0
+}
+
+Texture EHFALL2, 128, 128
+{
+	Patch EHFALL2, 0, 0
+}
+
+Texture EHFALL3, 128, 128
+{
+	Patch EHFALL3, 0, 0
+}
+
+Texture EHFALL4, 128, 128
+{
+	Patch EHFALL4, 0, 0
+}
+
+Texture EHINSD1, 128, 128
+{
+	Patch EHINSD1, 0, 0
+}
+
+Texture EHINSD2, 128, 128
+{
+	Patch EHINSD2, 0, 0
+}
+
+Texture EHINSD3, 128, 128
+{
+	Patch EHINSD3, 0, 0
+}
+
+Texture EHINSD4, 128, 128
+{
+	Patch EHINSD4, 0, 0
 }
 
 Texture LBYR1, 64, 64

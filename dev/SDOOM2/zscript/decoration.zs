@@ -12,6 +12,114 @@ class SD2FBZHandlebar : Stalagtite replaces Stalagtite
 // Mushroom Hill Zone
 class SD2MHZPulley : NonsolidMeat5 replaces Meat5 {}
 
+// Emerald Hill Zone
+
+class EHZBush : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    EHZB A 10;
+		    Loop;
+	}
+}
+
+class EHZTree : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        +SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    EHZT A 10;
+		    Loop;
+	}
+}
+
+class EHZFlowerA : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    EHZF A 10;
+			EHZF B 10;
+		    Loop;
+	}
+}
+
+class EHZFlowerB : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    EHZF C 10;
+			EHZF D 10;
+		    Loop;
+	}
+}
+
+class EHZFlowerC : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    EHZF E 10;
+			EHZF F 10;
+		    Loop;
+	}
+}
+
+class EHZFlowerD : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    EHZF G 10;
+			EHZF H 10;
+		    Loop;
+	}
+}
+
 // Stardust Speedway Zone (Bad Future)
 class SSZBDecoA : Actor
 {

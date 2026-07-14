@@ -1499,4 +1499,11 @@ DoomEdNums
 	109 = "MMZGDecoB"
 	110 = "MMZGDecoC"
 	111 = "MMZGDecoD"
+	// Emerald Hill
+	112 = "EHZBush"
+	113 = "EHZTree"
+	114 = "EHZFlowerA"
+	115 = "EHZFlowerB"
+	116 = "EHZFlowerC"
+	117 = "EHZFlowerD"
 }
