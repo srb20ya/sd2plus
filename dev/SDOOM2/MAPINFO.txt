@@ -1494,4 +1494,9 @@ DoomEdNums
 	105 = "GHZDecoD"
 	106 = "GHZDecoE"
 	107 = "GHZSign"
+	// Metallic Madness (Good Future)
+	108 = "MMZGDecoA"
+	109 = "MMZGDecoB"
+	110 = "MMZGDecoC"
+	111 = "MMZGDecoD"
 }

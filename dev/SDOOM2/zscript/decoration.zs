@@ -1,5 +1,6 @@
 // Sonic Doom 2 - Decoration
 
+// Flying Battery Zone
 class SD2FBZHandlebar : Stalagtite replaces Stalagtite
 {
     Default
@@ -8,8 +9,10 @@ class SD2FBZHandlebar : Stalagtite replaces Stalagtite
     }
 }
 
+// Mushroom Hill Zone
 class SD2MHZPulley : NonsolidMeat5 replaces Meat5 {}
 
+// Stardust Speedway Zone (Bad Future)
 class SSZBDecoA : Actor
 {
     Default
@@ -43,6 +46,80 @@ class SSZBDecoB : Actor
 		    Loop;
 	}
 }
+
+// Metallic Madness Zone (Good Future)
+
+class MMZGDecoA : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    MMGA A 10;
+		    Loop;
+	}
+}
+
+class MMZGDecoB : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    MMGB A 10;
+		    Loop;
+	}
+}
+
+class MMZGDecoC : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    MMGC A 10;
+			MMGC B 10;
+			MMGC C 10;
+		    Loop;
+	}
+}
+
+class MMZGDecoD : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    MMGD A 10;
+		    Loop;
+	}
+}
+
+// Green Hill Zone
 
 class GHZDecoA : Actor
 {
