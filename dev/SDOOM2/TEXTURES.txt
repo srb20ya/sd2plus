@@ -295,6 +295,51 @@ Texture SKY52, 256, 128
 	Patch SKY52, 0, 0
 }
 
+Texture SKY53, 256, 128
+{
+	Patch SKY53, 0, 0
+}
+
+Texture SKY54, 256, 128
+{
+	Patch SKY54, 0, 0
+}
+
+Texture SKY55, 256, 128
+{
+	Patch SKY55, 0, 0
+}
+
+Texture SKY56, 256, 128
+{
+	Patch SKY56, 0, 0
+}
+
+Texture SKY56_2, 256, 128
+{
+	Patch SKY56_2, 0, 0
+}
+
+Texture SKY57, 256, 128
+{
+	Patch SKY57, 0, 0
+}
+
+Texture SKY58, 256, 128
+{
+	Patch SKY58, 0, 0
+}
+
+Texture SKY59, 256, 128
+{
+	Patch SKY59, 0, 0
+}
+
+Texture SKY77, 256, 128
+{
+	Patch SKY77, 0, 0
+}
+
 Texture SKY83, 256, 128
 {
 	Patch SKY83, 0, 0
@@ -4700,6 +4745,21 @@ Texture MMG7, 64, 64
 	Patch MMG7, 0, 0
 }
 
+Texture REDDOOR, 32, 64
+{
+	Patch REDDOOR, 0, 0
+}
+
+Texture BLUEDOOR, 32, 64
+{
+	Patch BLUEDOOR, 0, 0
+}
+
+Texture YLLWDOOR, 32, 64
+{
+	Patch YLLWDOOR, 0, 0
+}
+
 // Sorry mate but I don't want to segregate the textures
 
 Texture EMHILL1, 128, 128
@@ -4727,9 +4787,27 @@ Texture EMHILL5, 128, 128
 	Patch EMHILL5, 0, 0
 }
 
+Texture EMHILL5B, 128, 512
+{
+	Patch EMHILL5, 0, 0
+	Patch EMHILL3, 0, 128
+	Patch EMHILL3, 0, 256
+	Patch EMHILL3, 0, 384
+}
+
 Texture EMHILL6, 128, 128
 {
 	Patch EMHILL6, 0, 0
+}
+
+Texture EHDOOR, 128, 256
+{
+	Patch EHDOOR, 0, 0
+}
+
+Texture EHPLAT, 64, 64
+{
+	Patch EHPLAT, 0, 0
 }
 
 Texture EHFALL1, 128, 128
@@ -4770,6 +4848,18 @@ Texture EHINSD3, 128, 128
 Texture EHINSD4, 128, 128
 {
 	Patch EHINSD4, 0, 0
+}
+
+Texture SW1EMER, 128, 128
+{
+	Patch EMHILL3, 0, 0
+	Patch DBUTNO, 32, 32
+}
+
+Texture SW2EMER, 128, 128
+{
+	Patch EMHILL3, 0, 0
+	Patch DBUTYES, 32, 32
 }
 
 Texture LBYR1, 64, 64

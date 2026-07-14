@@ -1032,7 +1032,7 @@ map MAP77 lookup "HUSTR_1"
 	titlepatch = "CWILV00"
 	next = "MAP01"
 	secretnext = "MAP01"
-	sky1 = "SKY1"
+	sky1 = "SKY77"
 	cluster = 14
 	par = 30
 	music = "D_SPEC6"
