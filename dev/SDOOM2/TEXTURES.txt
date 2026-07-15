@@ -4745,6 +4745,70 @@ Texture MMG7, 64, 64
 	Patch MMG7, 0, 0
 }
 
+Texture MMG8, 64, 64
+{ 
+	Patch MMG8, 0, 0
+}
+
+Texture MMG9, 256, 256
+{ 
+	XScale 0.500
+	YScale 0.500
+	Patch MMG9, 0, 0
+}
+
+Texture MMG10, 256, 256
+{ 
+	Patch MMG10, 0, 0
+}
+
+Texture MMG11, 64, 64
+{ 
+	Patch MMG11, 0, 0
+}
+
+
+Texture MMDOOR, 256, 256
+{ 
+	Patch MMDOOR, 0, 0
+}
+
+Texture MMBUILD1, 64, 80
+{ 
+	XScale 0.330
+	YScale 0.330
+	Patch MMBUILD1, 0, 0
+}
+
+Texture MMBUILD2, 64, 64
+{ 
+	Patch MMBUILD2, 0, 0
+}
+
+Texture MMBUILD3, 64, 64
+{ 
+	Patch MMBUILD3, 0, 0
+}
+
+Flat "MMG4F", 64, 64
+{
+	XScale 0.5000
+	YScale 0.5000
+	Patch "MMG4F", 0, 0
+}
+
+Flat "MMG6F", 256, 256
+{
+	Patch "MMG6F", 0, 0
+}
+
+Flat "MMG7F", 64, 64
+{
+	XScale 0.5000
+	YScale 0.5000
+	Patch "MMG7F", 0, 0
+}
+
 Texture REDDOOR, 32, 64
 {
 	Patch REDDOOR, 0, 0
