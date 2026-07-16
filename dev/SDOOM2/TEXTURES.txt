@@ -4720,6 +4720,14 @@ Texture MMG2, 256, 256
 	Patch MMG2, 0, 0
 }
 
+Texture MMG2B, 256, 768
+{ 
+	Patch MMG2, 0, 0
+	Patch MMG1, 0, 256
+	Patch MMG1, 0, 512
+}
+
+
 Texture MMG3, 96, 128
 { 
 	Patch MMG3, 0, 0
@@ -4807,6 +4815,18 @@ Flat "MMG7F", 64, 64
 	XScale 0.5000
 	YScale 0.5000
 	Patch "MMG7F", 0, 0
+}
+
+Texture SW1MMG, 256, 256
+{
+	Patch MMG1, 0, 0
+	Patch DBUTNO, 32, 32
+}
+
+Texture SW2MMG, 256, 256
+{
+	Patch MMG1, 0, 0
+	Patch DBUTYES, 32, 32
 }
 
 Texture REDDOOR, 32, 64
