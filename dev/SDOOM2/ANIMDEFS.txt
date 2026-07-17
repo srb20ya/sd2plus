@@ -9,3 +9,4 @@ switch doom 1 SW1CHEM on pic SW2CHEM tics 0
 switch doom 1 SW1GREN on pic SW2GREN tics 0
 switch doom 1 SW1EMER on pic SW2EMER tics 0
 switch doom 1 SW1MMG on pic SW2MMG tics 0
+switch doom 1 SW1HTOP on pic SW2HTOP tics 0

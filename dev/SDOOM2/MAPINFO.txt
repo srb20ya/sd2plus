@@ -1502,8 +1502,12 @@ DoomEdNums
 	// Emerald Hill
 	112 = "EHZBush"
 	113 = "EHZTree"
+	// Emerald Hill and Hill Top
 	114 = "EHZFlowerA"
 	115 = "EHZFlowerB"
 	116 = "EHZFlowerC"
 	117 = "EHZFlowerD"
+	// Hill Top
+	118 = "HTZBush"
+	119 = "HTZTree"
 }

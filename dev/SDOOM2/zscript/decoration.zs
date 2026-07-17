@@ -48,6 +48,8 @@ class EHZTree : Actor
 	}
 }
 
+// Emerald Hill and Hill Top
+
 class EHZFlowerA : Actor
 {
     Default
@@ -116,6 +118,42 @@ class EHZFlowerD : Actor
 		Spawn:
 		    EHZF G 10;
 			EHZF H 10;
+		    Loop;
+	}
+}
+
+// Hill Top Zone
+
+class HTZBush : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    EHZB B 10;
+		    Loop;
+	}
+}
+
+class HTZTree : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        +SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    EHZT B 10;
 		    Loop;
 	}
 }

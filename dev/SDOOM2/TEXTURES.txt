@@ -4946,6 +4946,97 @@ Texture SW2EMER, 128, 128
 	Patch DBUTYES, 32, 32
 }
 
+
+Texture HTZ1, 128, 128
+{
+	Patch HTZ1, 0, 0
+}
+
+Texture HTZ1B, 128, 512
+{
+	Patch HTZ1, 0, 0
+	Patch HTZ2, 0, 128
+	Patch HTZ2, 0, 256
+	Patch HTZ2, 0, 384
+}
+
+Texture HTZ2, 128, 128
+{
+	Patch HTZ2, 0, 0
+}
+
+Texture HTZ3, 64, 64
+{
+	Patch HTZ3, 0, 0
+}
+
+Texture HTZ4, 64, 64
+{
+	Patch HTZ4, 0, 0
+}
+
+Texture HTDOOR, 128, 256
+{
+	Patch HTDOOR, 0, 0
+}
+
+Texture HTPLAT, 64, 64
+{
+	Patch HTPLAT, 0, 0
+}
+
+Texture HTFALL1, 128, 128
+{
+	Patch HTFALL1, 0, 0
+}
+
+Texture HTFALL2, 128, 128
+{
+	Patch HTFALL2, 0, 0
+}
+
+Texture HTFALL3, 128, 128
+{
+	Patch HTFALL3, 0, 0
+}
+
+Texture HTFALL4, 128, 128
+{
+	Patch HTFALL4, 0, 0
+}
+
+Texture HTINSD1, 128, 128
+{
+	Patch HTINSD1, 0, 0
+}
+
+Texture HTINSD2, 128, 128
+{
+	Patch HTINSD2, 0, 0
+}
+
+Texture HTINSD3, 128, 128
+{
+	Patch HTINSD3, 0, 0
+}
+
+Texture HTINSD4, 128, 128
+{
+	Patch HTINSD4, 0, 0
+}
+
+Texture SW1HTOP, 128, 128
+{
+	Patch HTZ2, 0, 0
+	Patch DBUTNO, 32, 32
+}
+
+Texture SW2HTOP, 128, 128
+{
+	Patch HTZ2, 0, 0
+	Patch DBUTYES, 32, 32
+}
+
 Texture LBYR1, 64, 64
 {
 	Patch LBYR1, 0, 0
