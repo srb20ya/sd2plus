@@ -202,7 +202,7 @@ Texture SKY33, 256, 128
 
 Texture SKY34, 256, 128
 {
-	Patch SKY33, 0, 0
+	Patch SKY34, 0, 0
 }
 
 Texture SKY35, 256, 128
