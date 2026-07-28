@@ -740,7 +740,7 @@ map MAP54 lookup "HUSTR_CCZ"
 }
 
 // Tidal Tempest
-map MAP55 lookup "HUSTR_PLACE"
+map MAP55 lookup "HUSTR_TIDALTEMPEST"
 {
 	titlepatch = "CWILVPL"
 	next = "MAP56"
