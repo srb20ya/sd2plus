@@ -5246,6 +5246,23 @@ Texture TIDTMP8, 64, 64
 	Patch TIDTMP8, 0, 0
 }
 
+// sm64
+
+Texture MAR641, 64, 64
+{
+	Patch MAR641, 0, 0
+}
+
+Texture MAR642, 64, 64
+{
+	Patch MAR642, 0, 0
+}
+
+Texture MAR643, 64, 64
+{
+	Patch MAR643, 0, 0
+}
+
 // skies
 
 Texture SKY53, 256, 128

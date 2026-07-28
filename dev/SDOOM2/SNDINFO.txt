@@ -2,7 +2,7 @@
 // Made by MIDIMan
 
 $playersound	player	male	*gibbed		dspdiehi
-$playersound	player	male	*jump		none
+$playersound	player	male	*jump		dspljump
 
 $playersound	tails	male	*pain100	dstlpain
 $playersound	tails	male	*pain75		dstlpain

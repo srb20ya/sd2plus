@@ -372,3 +372,23 @@ class GHZSign : Actor
 		    Loop;
 	}
 }
+
+// Well, there is a marine here.
+// He offered you something.
+
+class MANTree : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        +SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    EHZT C 10;
+		    Loop;
+	}
+}

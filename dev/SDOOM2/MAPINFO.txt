@@ -1510,4 +1510,7 @@ DoomEdNums
 	// Hill Top
 	118 = "HTZBush"
 	119 = "HTZTree"
+	// Well, there is a marine here.
+	// He offered you something.
+	6113 = "MANTree"
 }
