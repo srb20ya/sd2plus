@@ -5199,6 +5199,53 @@ Texture PPANIC6, 64, 64
 	Patch PPANIC6, 0, 0
 }
 
+Texture PPANIC7, 64, 64
+{
+	Patch PPANIC7, 0, 0
+}
+
+// tidal tempest
+
+Texture TIDTMP1, 64, 64
+{
+	Patch TIDTMP1, 0, 0
+}	
+
+Texture TIDTMP2, 64, 64
+{
+	Patch TIDTMP2, 0, 0
+}	
+
+Texture TIDTMP3, 64, 64
+{
+	Patch TIDTMP3, 0, 0
+}
+
+Texture TIDTMP4, 64, 64
+{
+	Patch TIDTMP4, 0, 0
+}	
+
+Texture TIDTMP5, 64, 64
+{
+	Patch TIDTMP5, 0, 0
+}	
+
+Texture TIDTMP6, 64, 64
+{
+	Patch TIDTMP6, 0, 0
+}
+
+Texture TIDTMP7, 64, 64
+{
+	Patch TIDTMP7, 0, 0
+}
+
+Texture TIDTMP8, 64, 64
+{
+	Patch TIDTMP8, 0, 0
+}
+
 // skies
 
 Texture SKY53, 256, 128
