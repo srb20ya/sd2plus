@@ -823,7 +823,7 @@ map MAP61 lookup "HUSTR_SPEC"
 	titlepatch = "CWILVPL"
 	next = "MAP62"
 	secretnext = "MAP62"
-	sky1 = "SKY1"
+	sky1 = "SKY61"
 	cluster = 11
 	par = 30
 	music = "D_SPEC4"
@@ -1510,6 +1510,9 @@ DoomEdNums
 	// Hill Top
 	118 = "HTZBush"
 	119 = "HTZTree"
+	// Sonic CD Special Stage
+	123 = "CDSSUFO_A"
+	124 = "CDSSUFO_B"
 	// Star Light
 	120 = "SLZBushA"
 	121 = "SLZBushB"

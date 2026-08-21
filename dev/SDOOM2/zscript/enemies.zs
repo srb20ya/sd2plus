@@ -55,3 +55,57 @@ class SD2PseudoSuper : Arachnotron replaces Arachnotron
 			Goto See;
 	}
 }
+
+// Sonic CD Special Stage
+class CDSSUFO_A : Actor
+{
+	Default
+	{
+		Health 20;
+		Radius 31;
+		Height 56;
+		Mass 400;
+		Speed 15;
+		PainChance 0;
+		Monster;
+		+FLOAT +NOGRAVITY -SOLID
+	}
+	
+	States
+	{
+		Spawn:
+			CDSS A 1 SetZ(96); // I don't care, this works
+			CDSS A 3 RandomChaseDir;
+			CDSS A 3 A_Chase;	
+			Loop;
+		Death:
+			// Spawn random item
+			DISS A 1
+			{
+				// This is probably the cleanest way to get this done
+				static const string itemnames[] = {
+				"Clip", "Shell", "RocketAmmo", "Cell", 
+				"AmmoBox", "ShellBox", "RocketBox", "CellPack", "SuperShotgun", 
+				"Chaingun", "RocketLauncher", "PlasmaRifle", "BFG9000", 
+				"Soulsphere", "Megasphere", "Medikit"
+				};
+				
+				let item = random(0, 15);
+				A_SpawnItemEx(itemnames[item]);
+			}	
+			Stop;
+	}
+}
+
+// Replace existing states
+class CDSSUFO_B : CDSSUFO_A 
+{
+	States
+	{
+		Spawn:
+			CDSS B 1 SetZ(96);
+			CDSS B 3 RandomChaseDir;
+			CDSS B 3 A_Chase;	
+			Loop;
+	}
+}

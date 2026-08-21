@@ -4,7 +4,7 @@
 
 
 // You shouldn't see this message. If this is seen the level string for a level has not been added
-HUSTR_PLACE = "Placeholder, tell save_as to replace this"
+HUSTR_PLACE = "Placeholder, tell save_as to replace this";
 
 HUSTR_AIZ1 = "Angel Island Zone Act 1";
 HUSTR_AIZ2 = "Angel Island Zone Act 2";
