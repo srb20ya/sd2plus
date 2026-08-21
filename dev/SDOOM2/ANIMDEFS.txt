@@ -3,6 +3,7 @@ texture GFALL1 		range GFALL4	tics 5
 texture GFALLT1 	range GFALLT4	tics 5
 texture EHFALL1		range EHFALL4	tics 5
 texture EHINSD1		range EHINSD4	tics 5
+texture HTFALL1		range HTFALL4	tics 5
 flat MACK1			range MACK3	tics 10
 flat GWATER1		range GWATER4	tics 5
 switch doom 1 SW1CHEM on pic SW2CHEM tics 0
@@ -10,3 +11,4 @@ switch doom 1 SW1GREN on pic SW2GREN tics 0
 switch doom 1 SW1EMER on pic SW2EMER tics 0
 switch doom 1 SW1MMG on pic SW2MMG tics 0
 switch doom 1 SW1HTOP on pic SW2HTOP tics 0
+switch doom 1 SW1STAR on pic SW2STAR tics 0

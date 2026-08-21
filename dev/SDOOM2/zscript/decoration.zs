@@ -373,6 +373,59 @@ class GHZSign : Actor
 	}
 }
 
+// Star Light Zone
+
+class SLZBushA : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    SLZB A 10;
+		    Loop;
+	}
+}
+
+class SLZBushB : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    SLZB B 10;
+		    Loop;
+	}
+}
+
+class SLZPole : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    SLZP A 10;
+		    Loop;
+	}
+}
+
 // Well, there is a marine here.
 // He offered you something.
 

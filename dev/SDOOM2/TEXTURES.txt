@@ -422,6 +422,65 @@ Texture SKYA0, 256, 128
 	Patch SKYA0, 0, 0
 }
 
+Texture SLBUILD1, 256, 256
+{
+	Patch SLBUILD1, 0, 0
+}
+
+Texture SLBUILD2, 256, 256
+{
+	Patch SLBUILD2, 0, 0
+}
+
+Texture SLBUILD3, 64, 64
+{
+	Patch SLBUILD3, 0, 0
+}
+
+Texture SLBUILD4, 64, 64
+{
+	Patch SLBUILD4, 0, 0
+}
+
+Texture SLZDOOR, 256, 512
+{
+	Patch SLZDOOR, 0, 0
+}
+
+Texture SLZSCAF, 256, 256
+{
+	Patch SLZSCAF, 0, 0
+}
+
+Texture SLZWALL, 256, 256
+{
+	Patch SLZWALL, 0, 0
+}
+
+Texture SLZWALL2, 256, 256
+{
+	Patch SLZWALL2, 0, 0
+}
+
+Texture SLZWALL3, 256, 768
+{
+	Patch SLZWALL2, 0, 0
+	Patch SLZWALL, 0, 256
+	Patch SLZWALL, 0, 512
+}
+
+Texture SW1STAR, 128, 128
+{
+	Patch SLZWALL, 0, 0
+	Patch DBUTNO, 32, 32
+}
+
+Texture SW2STAR, 128, 128
+{
+	Patch SLZWALL, 0, 0
+	Patch DBUTYES, 32, 32
+}
+
 Texture SPECIAL2, 128, 128
 {
 	Patch SPECIAL2, 0, 0

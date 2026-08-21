@@ -1269,7 +1269,7 @@ map MAP95 lookup "HUSTR_SLZ1"
 	sky1 = "SKY95"
 	cluster = 15
 	par = 30
-	music = "D_ICZ1"
+	music = "D_SLZ1"
         ForceNoSkyStretch
 }
 
@@ -1282,7 +1282,7 @@ map MAP96 lookup "HUSTR_SLZ2"
 	sky1 = "SKY96"
 	cluster = 15
 	par = 30
-	music = "D_ICZ1"
+	music = "D_SLZ2"
         ForceNoSkyStretch
 }
 
@@ -1295,7 +1295,7 @@ map MAP97 lookup "HUSTR_SLZ3"
 	sky1 = "SKY97"
 	cluster = 15
 	par = 30
-	music = "D_ICZ1"
+	music = "D_SLZ3"
         ForceNoSkyStretch
 }
 
@@ -1510,6 +1510,10 @@ DoomEdNums
 	// Hill Top
 	118 = "HTZBush"
 	119 = "HTZTree"
+	// Star Light
+	120 = "SLZBushA"
+	121 = "SLZBushB"
+	122 = "SLZPole"
 	// Well, there is a marine here.
 	// He offered you something.
 	6113 = "MANTree"
