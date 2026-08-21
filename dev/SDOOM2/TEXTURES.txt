@@ -5172,6 +5172,20 @@ Texture SYZ1, 64, 64
 Texture PPANIC1, 64, 64
 {
 	Patch PPANIC1, 0, 0
+}
+
+Texture PPANIC1T, 64, 640
+{
+	Patch PPANIC1, 0, 0
+	Patch PPANIC2, 0, 64
+	Patch PPANIC2, 0, 128
+	Patch PPANIC2, 0, 192
+	Patch PPANIC2, 0, 256
+	Patch PPANIC2, 0, 320
+	Patch PPANIC2, 0, 384
+	Patch PPANIC2, 0, 448
+	Patch PPANIC2, 0, 512
+	Patch PPANIC2, 0, 576
 }	
 
 Texture PPANIC2, 64, 64
@@ -5202,6 +5216,16 @@ Texture PPANIC6, 64, 64
 Texture PPANIC7, 64, 64
 {
 	Patch PPANIC7, 0, 0
+}
+
+Texture PPANIC8, 64, 128
+{
+	Patch PPANIC8, 0, 0
+}
+
+Texture PPANIC9, 64, 64
+{
+	Patch PPANIC9, 0, 0
 }
 
 // tidal tempest
