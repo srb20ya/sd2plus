@@ -21,7 +21,7 @@ gameinfo
 // Sonic World
 map MAP00 lookup "HUSTR_SWZ"
 {
-	titlepatch = "CWILVSW"
+	titlepatch = "LVL_SWZ"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY0"
@@ -34,7 +34,7 @@ map MAP00 lookup "HUSTR_SWZ"
 // Ice Cap 1
 map MAP01 lookup "HUSTR_ICZ1"
 {
-	titlepatch = "CWILV00"
+	titlepatch = "LVL_ICZ1"
 	next = "MAP02"
 	secretnext = "MAP02"
 	sky1 = "SKY1"
@@ -47,7 +47,7 @@ map MAP01 lookup "HUSTR_ICZ1"
 // Ice Cap 2
 map MAP02 lookup "HUSTR_ICZ2"
 {
-	titlepatch = "CWILV01"
+	titlepatch = "LVL_ICZ2"
 	next = "MAP03"
 	secretnext = "MAP03"
 	sky1 = "SKY2"
@@ -60,7 +60,7 @@ map MAP02 lookup "HUSTR_ICZ2"
 // Flying Battery 1
 map MAP03 lookup "HUSTR_FBZ1"
 {
-	titlepatch = "CWILV02"
+	titlepatch = "LVL_FBZ1"
 	next = "MAP04"
 	secretnext = "MAP04"
 	sky1 = "SKY3"
@@ -73,7 +73,7 @@ map MAP03 lookup "HUSTR_FBZ1"
 // Flying Battery 2
 map MAP04 lookup "HUSTR_FBZ2"
 {
-	titlepatch = "CWILV03"
+	titlepatch = "LVL_FBZ2"
 	next = "MAP05"
 	secretnext = "MAP05"
 	sky1 = "SKY4"
@@ -86,7 +86,7 @@ map MAP04 lookup "HUSTR_FBZ2"
 // The Sonic Zone
 map MAP05 lookup "HUSTR_TSZ"
 {
-	titlepatch = "CWILV04"
+	titlepatch = "LVL_SONIC"
 	next = "MAP06"
 	secretnext = "MAP06"
 	sky1 = "SKY5"
@@ -99,7 +99,7 @@ map MAP05 lookup "HUSTR_TSZ"
 // Special Stage
 map MAP06 lookup "HUSTR_SPEC"
 {
-	titlepatch = "CWILV05"
+	titlepatch = "LVL_SPEC"
 	next = "MAP07"
 	secretnext = "MAP07"
 	sky1 = "SKY6"
@@ -113,7 +113,7 @@ map MAP06 lookup "HUSTR_SPEC"
 // Marble Garden 1
 map MAP07 lookup "HUSTR_MGZ1"
 {
-	titlepatch = "CWILV06"
+	titlepatch = "LVL_MGZ1"
 	next = "MAP08"
 	secretnext = "MAP08"
 	sky1 = "SKY7"
@@ -127,7 +127,7 @@ map MAP07 lookup "HUSTR_MGZ1"
 // Marble Garden 2
 map MAP08 lookup "HUSTR_MGZ2"
 {
-	titlepatch = "CWILV07"
+	titlepatch = "LVL_MGZ2"
 	next = "MAP09"
 	secretnext = "MAP09"
 	sky1 = "SKY8"
@@ -140,7 +140,7 @@ map MAP08 lookup "HUSTR_MGZ2"
 // Carnival Night 1
 map MAP09 lookup "HUSTR_CNZ3"
 {
-	titlepatch = "CWILV08"
+	titlepatch = "LVL_CNZ3"
 	next = "MAP10"
 	secretnext = "MAP10"
 	sky1 = "SKY9"
@@ -153,7 +153,7 @@ map MAP09 lookup "HUSTR_CNZ3"
 // Carnival Night 2
 map MAP10 lookup "HUSTR_CNZ4"
 {
-	titlepatch = "CWILV09"
+	titlepatch = "LVL_CNZ4"
 	next = "MAP11"
 	secretnext = "MAP11"
 	sky1 = "SKY10"
@@ -167,7 +167,7 @@ map MAP10 lookup "HUSTR_CNZ4"
 // Hydrocity 1
 map MAP11 lookup "HUSTR_HCZ1"
 {
-	titlepatch = "CWILV10"
+	titlepatch = "LVL_HCZ1"
 	next = "MAP12"
 	secretnext = "MAP12"
 	sky1 = "SKY11"
@@ -180,7 +180,7 @@ map MAP11 lookup "HUSTR_HCZ1"
 // Hydrocity 2
 map MAP12 lookup "HUSTR_HCZ2"
 {
-	titlepatch = "CWILV11"
+	titlepatch = "LVL_HCZ2"
 	next = "MAP13"
 	secretnext = "MAP13"
 	sky1 = "SKY12"
@@ -193,7 +193,7 @@ map MAP12 lookup "HUSTR_HCZ2"
 // Launch Base 1
 map MAP13 lookup "HUSTR_LBZ1"
 {
-	titlepatch = "CWILV12"
+	titlepatch = "LVL_LBZ1"
 	next = "MAP14"
 	secretnext = "MAP14"
 	sky1 = "SKY13"
@@ -206,7 +206,7 @@ map MAP13 lookup "HUSTR_LBZ1"
 // Launch Base 2
 map MAP14 lookup "HUSTR_LBZ2"
 {
-	titlepatch = "CWILV13"
+	titlepatch = "LVL_LBZ2"
 	next = "MAP15"
 	secretnext = "MAP15"
 	sky1 = "SKY14"
@@ -219,7 +219,7 @@ map MAP14 lookup "HUSTR_LBZ2"
 // Angel Island 1
 map MAP15 lookup "HUSTR_AIZ1"
 {
-	titlepatch = "CWILV14"
+	titlepatch = "LVL_AIZ1"
 	next = "MAP16"
 	secretnext = "MAP31"
 	sky1 = "SKY15"
@@ -232,7 +232,7 @@ map MAP15 lookup "HUSTR_AIZ1"
 // Angel Island 2
 map MAP16 lookup "HUSTR_AIZ2"
 {
-	titlepatch = "CWILV15"
+	titlepatch = "LVL_AIZ2"
 	next = "MAP17"
 	secretnext = "MAP17"
 	sky1 = "SKY16"
@@ -245,7 +245,7 @@ map MAP16 lookup "HUSTR_AIZ2"
 // Toxic Caves 1
 map MAP17 lookup "HUSTR_TCZ1"
 {
-	titlepatch = "CWILV16"
+	titlepatch = "LVL_TCZ1"
 	next = "MAP18"
 	secretnext = "MAP18"
 	sky1 = "SKY17"
@@ -258,7 +258,7 @@ map MAP17 lookup "HUSTR_TCZ1"
 // Toxic Caves 2
 map MAP18 lookup "HUSTR_TCZ2"
 {
-	titlepatch = "CWILV17"
+	titlepatch = "LVL_TCZ2"
 	next = "MAP19"
 	secretnext = "MAP19"
 	sky1 = "SKY18"
@@ -271,7 +271,7 @@ map MAP18 lookup "HUSTR_TCZ2"
 // The Tails Zone
 map MAP19 lookup "HUSTR_TTZ"
 {
-	titlepatch = "CWILV18"
+	titlepatch = "LVL_TAILS"
 	next = "MAP20"
 	secretnext = "MAP20"
 	sky1 = "SKY19"
@@ -284,7 +284,7 @@ map MAP19 lookup "HUSTR_TTZ"
 // Special Stage
 map MAP20 lookup "HUSTR_SPEC"
 {
-	titlepatch = "CWILV19"
+	titlepatch = "LVL_SPEC1"
 	next = "MAP21"
 	secretnext = "MAP21"
 	sky1 = "SKY20"
@@ -297,7 +297,7 @@ map MAP20 lookup "HUSTR_SPEC"
 // Mushroom Hill 1
 map MAP21 lookup "HUSTR_MHZ1"
 {
-	titlepatch = "CWILV20"
+	titlepatch = "LVL_MHZ1"
 	next = "MAP22"
 	secretnext = "MAP22"
 	sky1 = "SKY21"
@@ -310,7 +310,7 @@ map MAP21 lookup "HUSTR_MHZ1"
 // Mushroom Hill 2
 map MAP22 lookup "HUSTR_MHZ2"
 {
-	titlepatch = "CWILV21"
+	titlepatch = "LVL_MHZ2"
 	next = "MAP23"
 	secretnext = "MAP23"
 	sky1 = "SKY22"
@@ -323,7 +323,7 @@ map MAP22 lookup "HUSTR_MHZ2"
 // Sandopolis 1
 map MAP23 lookup "HUSTR_SOZ1"
 {
-	titlepatch = "CWILV22"
+	titlepatch = "LVL_SOZ1"
 	next = "MAP24"
 	secretnext = "MAP24"
 	sky1 = "SKY23"
@@ -336,7 +336,7 @@ map MAP23 lookup "HUSTR_SOZ1"
 // Sandopolis 2
 map MAP24 lookup "HUSTR_SOZ2"
 {
-	titlepatch = "CWILV23"
+	titlepatch = "LVL_SOZ2"
 	next = "MAP25"
 	secretnext = "MAP25"
 	sky1 = "SKY24"
@@ -349,7 +349,7 @@ map MAP24 lookup "HUSTR_SOZ2"
 // Lava Reef 1
 map MAP25 lookup "HUSTR_LRZ1"
 {
-	titlepatch = "CWILV24"
+	titlepatch = "LVL_LRZ1"
 	next = "MAP26"
 	secretnext = "MAP26"
 	sky1 = "SKY25"
@@ -362,7 +362,7 @@ map MAP25 lookup "HUSTR_LRZ1"
 // Lava Reef 2
 map MAP26 lookup "HUSTR_LRZ2"
 {
-	titlepatch = "CWILV25"
+	titlepatch = "LVL_LRZ2"
 	next = "MAP27"
 	secretnext = "MAP27"
 	sky1 = "SKY26"
@@ -375,7 +375,7 @@ map MAP26 lookup "HUSTR_LRZ2"
 // Hidden Palace 1
 map MAP27 lookup "HUSTR_HPZ1"
 {
-	titlepatch = "CWILV26"
+	titlepatch = "LVL_HPZ1"
 	next = "MAP28"
 	secretnext = "MAP28"
 	sky1 = "SKY27"
@@ -388,7 +388,7 @@ map MAP27 lookup "HUSTR_HPZ1"
 // Sky Sanctuary 1
 map MAP28 lookup "HUSTR_SSZ1"
 {
-	titlepatch = "CWILV27"
+	titlepatch = "LVL_SSZ1"
 	next = "MAP29"
 	secretnext = "MAP29"
 	sky1 = "SKY28"
@@ -401,7 +401,7 @@ map MAP28 lookup "HUSTR_SSZ1"
 // Death Egg 1
 map MAP29 lookup "HUSTR_DEZ1"
 {
-	titlepatch = "CWILV28"
+	titlepatch = "LVL_DEZ1"
 	next = "MAP30"
 	secretnext = "MAP30"
 	sky1 = "SKY29"
@@ -414,7 +414,7 @@ map MAP29 lookup "HUSTR_DEZ1"
 // Death Egg 2
 map MAP30 lookup "HUSTR_DEZ2"
 {
-	titlepatch = "CWILV29"
+	titlepatch = "LVL_DEZ2"
 	next = "MAP31"
 	secretnext = "MAP31"
 	sky1 = "SKY30"
@@ -430,7 +430,7 @@ map MAP30 lookup "HUSTR_DEZ2"
 // The Knuckles Zone
 map MAP31 lookup "HUSTR_TKZ"
 {
-	titlepatch = "CWILV30"
+	titlepatch = "LVL_KNUX"
 	next = "MAP32"
 	secretnext = "MAP32"
 	sky1 = "SKY31"
@@ -443,7 +443,7 @@ map MAP31 lookup "HUSTR_TKZ"
 // Special Stage
 map MAP32 lookup "HUSTR_SPEC"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP33"
 	secretnext = "MAP33"
 	sky1 = "SKY32"
@@ -456,7 +456,7 @@ map MAP32 lookup "HUSTR_SPEC"
 // Emerald Hill 1
 map MAP33 lookup "HUSTR_EHZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP34"
 	secretnext = "MAP34"
 	sky1 = "SKY33"
@@ -469,7 +469,7 @@ map MAP33 lookup "HUSTR_EHZ1"
 // Emerald Hill 2
 map MAP34 lookup "HUSTR_EHZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP35"
 	secretnext = "MAP35"
 	sky1 = "SKY34"
@@ -482,7 +482,7 @@ map MAP34 lookup "HUSTR_EHZ2"
 // Chemical Plant 1
 map MAP35 lookup "HUSTR_CPZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP36"
 	secretnext = "MAP36"
 	sky1 = "SKY35"
@@ -495,7 +495,7 @@ map MAP35 lookup "HUSTR_CPZ1"
 // Chemical Plant 2
 map MAP36 lookup "HUSTR_CPZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP37"
 	secretnext = "MAP37"
 	sky1 = "SKY36"
@@ -508,7 +508,7 @@ map MAP36 lookup "HUSTR_CPZ2"
 // Aquatic Ruin 1
 map MAP37 lookup "HUSTR_ARZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP38"
 	secretnext = "MAP38"
 	sky1 = "SKY37"
@@ -521,7 +521,7 @@ map MAP37 lookup "HUSTR_ARZ1"
 // Aquatic Ruin 2
 map MAP38 lookup "HUSTR_ARZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP39"
 	secretnext = "MAP39"
 	sky1 = "SKY38"
@@ -534,7 +534,7 @@ map MAP38 lookup "HUSTR_ARZ2"
 // Casino Night 1
 map MAP39 lookup "HUSTR_CNZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP40"
 	secretnext = "MAP40"
 	sky1 = "SKY39"
@@ -547,7 +547,7 @@ map MAP39 lookup "HUSTR_CNZ1"
 // Casino Night 2
 map MAP40 lookup "HUSTR_CNZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP41"
 	secretnext = "MAP41"
 	sky1 = "SKY40"
@@ -560,7 +560,7 @@ map MAP40 lookup "HUSTR_CNZ2"
 // Hill Top 1
 map MAP41 lookup "HUSTR_HTZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP42"
 	secretnext = "MAP42"
 	sky1 = "SKY41"
@@ -573,7 +573,7 @@ map MAP41 lookup "HUSTR_HTZ1"
 // Hill Top 2
 map MAP42 lookup "HUSTR_HTZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP43"
 	secretnext = "MAP43"
 	sky1 = "SKY42"
@@ -586,7 +586,7 @@ map MAP42 lookup "HUSTR_HTZ2"
 // Mystic Cave 1
 map MAP43 lookup "HUSTR_MCZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP44"
 	secretnext = "MAP44"
 	sky1 = "SKY43"
@@ -599,7 +599,7 @@ map MAP43 lookup "HUSTR_MCZ1"
 // Mystic Cave 2
 map MAP44 lookup "HUSTR_MCZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP45"
 	secretnext = "MAP45"
 	sky1 = "SKY44"
@@ -612,7 +612,7 @@ map MAP44 lookup "HUSTR_MCZ2"
 // Oil Ocean 1
 map MAP45 lookup "HUSTR_OOZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP46"
 	secretnext = "MAP46"
 	sky1 = "SKY45"
@@ -625,7 +625,7 @@ map MAP45 lookup "HUSTR_OOZ1"
 // Oil Ocean 2
 map MAP46 lookup "HUSTR_OOZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP47"
 	secretnext = "MAP47"
 	sky1 = "SKY46"
@@ -638,7 +638,7 @@ map MAP46 lookup "HUSTR_OOZ2"
 // Metropolis 1
 map MAP47 lookup "HUSTR_MZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP48"
 	secretnext = "MAP48"
 	sky1 = "SKY47"
@@ -651,7 +651,7 @@ map MAP47 lookup "HUSTR_MZ1"
 // Metropolis 2
 map MAP48 lookup "HUSTR_MZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP49"
 	secretnext = "MAP49"
 	sky1 = "SKY48"
@@ -664,7 +664,7 @@ map MAP48 lookup "HUSTR_MZ2"
 // Metropolis 3
 map MAP49 lookup "HUSTR_MZ3"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP50"
 	secretnext = "MAP50"
 	sky1 = "SKY49"
@@ -677,7 +677,7 @@ map MAP49 lookup "HUSTR_MZ3"
 // Sky Chase
 map MAP50 lookup "HUSTR_SCZ"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP51"
 	secretnext = "MAP51"
 	sky1 = "SKY50"
@@ -690,7 +690,7 @@ map MAP50 lookup "HUSTR_SCZ"
 // Wing Fortress
 map MAP51 lookup "HUSTR_WFZ"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP52"
 	secretnext = "MAP52"
 	sky1 = "SKY51"
@@ -703,7 +703,7 @@ map MAP51 lookup "HUSTR_WFZ"
 // Death Egg
 map MAP52 lookup "HUSTR_DEZ"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP53"
 	secretnext = "MAP53"
 	sky1 = "SKY52"
@@ -716,7 +716,7 @@ map MAP52 lookup "HUSTR_DEZ"
 // Palmtree Panic
 map MAP53 lookup "HUSTR_PPZ"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP54"
 	secretnext = "MAP54"
 	sky1 = "SKY53"
@@ -729,7 +729,7 @@ map MAP53 lookup "HUSTR_PPZ"
 // Collision Chaos
 map MAP54 lookup "HUSTR_CCZ"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP55"
 	secretnext = "MAP55"
 	sky1 = "SKY54"
@@ -742,7 +742,7 @@ map MAP54 lookup "HUSTR_CCZ"
 // Tidal Tempest
 map MAP55 lookup "HUSTR_TIDALTEMPEST"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP56"
 	secretnext = "MAP56"
 	sky1 = "SKY55"
@@ -755,7 +755,7 @@ map MAP55 lookup "HUSTR_TIDALTEMPEST"
 // Quartz Quadrant
 map MAP56 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP57"
 	secretnext = "MAP57"
 	sky1 = "SKY56"
@@ -768,7 +768,7 @@ map MAP56 lookup "HUSTR_PLACE"
 // Wacky Workbench
 map MAP57 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP58"
 	secretnext = "MAP58"
 	sky1 = "SKY57"
@@ -781,7 +781,7 @@ map MAP57 lookup "HUSTR_PLACE"
 // Stardust Speedway
 map MAP58 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP59"
 	secretnext = "MAP59"
 	sky1 = "SKY58"
@@ -794,7 +794,7 @@ map MAP58 lookup "HUSTR_PLACE"
 // Stardust Race
 map MAP59 lookup "HUSTR_SRZ"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP60"
 	secretnext = "MAP60"
 	sky1 = "SKY59"
@@ -807,7 +807,7 @@ map MAP59 lookup "HUSTR_SRZ"
 // Metallic Madness
 map MAP60 lookup "HUSTR_MMZ"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP61"
 	secretnext = "MAP61"
 	sky1 = "SKY60"
@@ -820,7 +820,7 @@ map MAP60 lookup "HUSTR_MMZ"
 // Sonic CD Special Stage
 map MAP61 lookup "HUSTR_SPEC"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP62"
 	secretnext = "MAP62"
 	sky1 = "SKY61"
@@ -833,7 +833,7 @@ map MAP61 lookup "HUSTR_SPEC"
 // Isolated Island
 map MAP62 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP63"
 	secretnext = "MAP63"
 	sky1 = "SKY1"
@@ -846,7 +846,7 @@ map MAP62 lookup "HUSTR_PLACE"
 // Botanic Base
 map MAP63 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -859,7 +859,7 @@ map MAP63 lookup "HUSTR_PLACE"
 // Speed Slider
 map MAP64 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -872,7 +872,7 @@ map MAP64 lookup "HUSTR_PLACE"
 // Amazing Arena
 map MAP65 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -885,7 +885,7 @@ map MAP65 lookup "HUSTR_PLACE"
 // Marina Madness
 map MAP66 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -899,7 +899,7 @@ map MAP66 lookup "HUSTR_PLACE"
 // NOT. A. WORD.
 map MAP67 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -912,7 +912,7 @@ map MAP67 lookup "HUSTR_PLACE"
 // World Entrance
 map MAP68 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -925,7 +925,7 @@ map MAP68 lookup "HUSTR_PLACE"
 // Red Metal Sonic's Lair
 map MAP69 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -938,7 +938,7 @@ map MAP69 lookup "HUSTR_PLACE"
 // Chaotix Special Stage
 map MAP70 lookup "HUSTR_SPEC"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -951,7 +951,7 @@ map MAP70 lookup "HUSTR_SPEC"
 // South Island
 map MAP71 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -964,7 +964,7 @@ map MAP71 lookup "HUSTR_PLACE"
 // Presidental Palace
 map MAP72 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -977,7 +977,7 @@ map MAP72 lookup "HUSTR_PLACE"
 // Forest
 map MAP73 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -990,7 +990,7 @@ map MAP73 lookup "HUSTR_PLACE"
 // EggMan Land
 map MAP74 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -1003,7 +1003,7 @@ map MAP74 lookup "HUSTR_PLACE"
 // Icy Tundra
 map MAP75 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -1016,7 +1016,7 @@ map MAP75 lookup "HUSTR_PLACE"
 // The MechaSonic Zone
 map MAP76 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -1029,7 +1029,7 @@ map MAP76 lookup "HUSTR_PLACE"
 // Sonic 2 Special Stage 1
 map MAP77 lookup "HUSTR_S2SZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY77"
@@ -1042,7 +1042,7 @@ map MAP77 lookup "HUSTR_S2SZ1"
 // Sonic 2 Special Stage 2
 map MAP78 lookup "HUSTR_S2SZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -1055,7 +1055,7 @@ map MAP78 lookup "HUSTR_S2SZ2"
 // Sonic 2 Special Stage 3
 map MAP79 lookup "HUSTR_S2SZ3"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -1068,7 +1068,7 @@ map MAP79 lookup "HUSTR_S2SZ3"
 // Sonic 2 Special Stage 4
 map MAP80 lookup "HUSTR_S2SZ4"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -1081,7 +1081,7 @@ map MAP80 lookup "HUSTR_S2SZ4"
 // The EggMan Zone
 map MAP81 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -1094,7 +1094,7 @@ map MAP81 lookup "HUSTR_PLACE"
 // Special Stage
 map MAP82 lookup "HUSTR_SPEC"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -1107,7 +1107,7 @@ map MAP82 lookup "HUSTR_SPEC"
 // Green Hill 1
 map MAP83 lookup "HUSTR_GHZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP84"
 	secretnext = "MAP84"
 	sky1 = "SKY83"
@@ -1120,7 +1120,7 @@ map MAP83 lookup "HUSTR_GHZ1"
 // Green Hill 2
 map MAP84 lookup "HUSTR_GHZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP85"
 	secretnext = "MAP85"
 	sky1 = "SKY84"
@@ -1133,7 +1133,7 @@ map MAP84 lookup "HUSTR_GHZ2"
 // Green Hill 3
 map MAP85 lookup "HUSTR_GHZ3"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP86"
 	secretnext = "MAP86"
 	sky1 = "SKY85"
@@ -1146,7 +1146,7 @@ map MAP85 lookup "HUSTR_GHZ3"
 // Marble 1
 map MAP86 lookup "HUSTR_MBZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP87"
 	secretnext = "MAP87"
 	sky1 = "SKY86"
@@ -1159,7 +1159,7 @@ map MAP86 lookup "HUSTR_MBZ1"
 // Marble 2
 map MAP87 lookup "HUSTR_MBZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP88"
 	secretnext = "MAP88"
 	sky1 = "SKY87"
@@ -1172,7 +1172,7 @@ map MAP87 lookup "HUSTR_MBZ2"
 // Marble 3
 map MAP88 lookup "HUSTR_MBZ3"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP89"
 	secretnext = "MAP89"
 	sky1 = "SKY88"
@@ -1185,7 +1185,7 @@ map MAP88 lookup "HUSTR_MBZ3"
 // Spring Yard 1
 map MAP89 lookup "HUSTR_SYZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP90"
 	secretnext = "MAP90"
 	sky1 = "SKY89"
@@ -1198,7 +1198,7 @@ map MAP89 lookup "HUSTR_SYZ1"
 // Spring Yard 2
 map MAP90 lookup "HUSTR_SYZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP91"
 	secretnext = "MAP91"
 	sky1 = "SKY90"
@@ -1211,7 +1211,7 @@ map MAP90 lookup "HUSTR_SYZ2"
 // Spring Yard 3
 map MAP91 lookup "HUSTR_SYZ3"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP92"
 	secretnext = "MAP92"
 	sky1 = "SKY91"
@@ -1224,7 +1224,7 @@ map MAP91 lookup "HUSTR_SYZ3"
 // Labyrinth 1
 map MAP92 lookup "HUSTR_LZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP93"
 	secretnext = "MAP93"
 	sky1 = "SKY92"
@@ -1237,7 +1237,7 @@ map MAP92 lookup "HUSTR_LZ1"
 // Labyrinth 2
 map MAP93 lookup "HUSTR_LZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP94"
 	secretnext = "MAP94"
 	sky1 = "SKY93"
@@ -1250,7 +1250,7 @@ map MAP93 lookup "HUSTR_LZ2"
 // Labyrinth 3
 map MAP94 lookup "HUSTR_LZ3"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP95"
 	secretnext = "MAP95"
 	sky1 = "SKY94"
@@ -1263,7 +1263,7 @@ map MAP94 lookup "HUSTR_LZ3"
 // Star Light 1
 map MAP95 lookup "HUSTR_SLZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP96"
 	secretnext = "MAP96"
 	sky1 = "SKY95"
@@ -1276,7 +1276,7 @@ map MAP95 lookup "HUSTR_SLZ1"
 // Star Light 2
 map MAP96 lookup "HUSTR_SLZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP97"
 	secretnext = "MAP97"
 	sky1 = "SKY96"
@@ -1289,7 +1289,7 @@ map MAP96 lookup "HUSTR_SLZ2"
 // Star Light 3
 map MAP97 lookup "HUSTR_SLZ3"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP98"
 	secretnext = "MAP98"
 	sky1 = "SKY97"
@@ -1302,7 +1302,7 @@ map MAP97 lookup "HUSTR_SLZ3"
 // Scrap Brain 1
 map MAP98 lookup "HUSTR_SBZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP99"
 	secretnext = "MAP99"
 	sky1 = "SKY98"
@@ -1315,7 +1315,7 @@ map MAP98 lookup "HUSTR_SBZ1"
 // Scrap Brain 2
 map MAP99 lookup "HUSTR_SBZ2"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAPA0"
 	secretnext = "MAPA0"
 	sky1 = "SKY99"
@@ -1328,7 +1328,7 @@ map MAP99 lookup "HUSTR_SBZ2"
 // Scrap Brain 3
 map MAPA0 lookup "HUSTR_SBZ3"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKYA0"
@@ -1341,7 +1341,7 @@ map MAPA0 lookup "HUSTR_SBZ3"
 // Final Zone
 map MAPA1 lookup "HUSTR_FZ"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "EndGameC"
 	secretnext = "EndGameC"
 	sky1 = "SKYA1"
@@ -1354,7 +1354,7 @@ map MAPA1 lookup "HUSTR_FZ"
 // Bob-Omb Battlefield
 map MAPA2 lookup "HUSTR_BOB"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKYA2"
@@ -1367,7 +1367,7 @@ map MAPA2 lookup "HUSTR_BOB"
 // Hidden Palace
 map MAPA3 lookup "HUSTR_HPZ1"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
@@ -1380,7 +1380,7 @@ map MAPA3 lookup "HUSTR_HPZ1"
 // Secret (not telling)
 map MAPA4 lookup "HUSTR_PLACE"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "LVL_PLACE"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY1"
