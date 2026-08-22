@@ -751,7 +751,7 @@ map MAP55 lookup "HUSTR_TIDALTEMPEST"
 }
 
 // Quartz Quadrant
-map MAP56 lookup "HUSTR_PLACE"
+map MAP56 lookup "HUSTR_QQZ"
 {
 	titlepatch = "LVL_QQZ"
 	next = "MAP57"
@@ -764,7 +764,7 @@ map MAP56 lookup "HUSTR_PLACE"
 }
 
 // Wacky Workbench
-map MAP57 lookup "HUSTR_PLACE"
+map MAP57 lookup "HUSTR_WWZ"
 {
 	titlepatch = "LVL_WWZ"
 	next = "MAP58"
@@ -777,7 +777,7 @@ map MAP57 lookup "HUSTR_PLACE"
 }
 
 // Stardust Speedway
-map MAP58 lookup "HUSTR_PLACE"
+map MAP58 lookup "HUSTR_SSZ2"
 {
 	titlepatch = "LVL_SSZB"
 	next = "MAP59"
@@ -803,7 +803,7 @@ map MAP59 lookup "HUSTR_SRZ"
 }
 
 // Metallic Madness
-map MAP60 lookup "HUSTR_MMZ"
+map MAP60 lookup "HUSTR_MMZ1"
 {
 	titlepatch = "LVL_MMZG"
 	next = "MAP61"
@@ -829,7 +829,7 @@ map MAP61 lookup "HUSTR_SPEC"
 }
 
 // Isolated Island
-map MAP62 lookup "HUSTR_PLACE"
+map MAP62 lookup "HUSTR_IIZ"
 {
 	titlepatch = "LVL_IIZ"
 	next = "MAP63"
@@ -842,7 +842,7 @@ map MAP62 lookup "HUSTR_PLACE"
 }
 
 // Botanic Base
-map MAP63 lookup "HUSTR_PLACE"
+map MAP63 lookup "HUSTR_BBZ"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -855,7 +855,7 @@ map MAP63 lookup "HUSTR_PLACE"
 }
 
 // Speed Slider
-map MAP64 lookup "HUSTR_PLACE"
+map MAP64 lookup "HUSTR_SSZ3"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -868,7 +868,7 @@ map MAP64 lookup "HUSTR_PLACE"
 }
 
 // Amazing Arena
-map MAP65 lookup "HUSTR_PLACE"
+map MAP65 lookup "HUSTR_AAZ"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -881,7 +881,7 @@ map MAP65 lookup "HUSTR_PLACE"
 }
 
 // Marina Madness
-map MAP66 lookup "HUSTR_PLACE"
+map MAP66 lookup "HUSTR_MMZ2"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -895,7 +895,7 @@ map MAP66 lookup "HUSTR_PLACE"
 
 // Techno Tower
 // NOT. A. WORD.
-map MAP67 lookup "HUSTR_PLACE"
+map MAP67 lookup "HUSTR_TOWER"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -908,7 +908,7 @@ map MAP67 lookup "HUSTR_PLACE"
 }
 
 // World Entrance
-map MAP68 lookup "HUSTR_PLACE"
+map MAP68 lookup "HUSTR_WEZ"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -921,7 +921,7 @@ map MAP68 lookup "HUSTR_PLACE"
 }
 
 // Red Metal Sonic's Lair
-map MAP69 lookup "HUSTR_PLACE"
+map MAP69 lookup "HUSTR_RMZ"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -947,7 +947,7 @@ map MAP70 lookup "HUSTR_SPEC"
 }
 
 // South Island
-map MAP71 lookup "HUSTR_PLACE"
+map MAP71 lookup "HUSTR_SIZ"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -960,7 +960,7 @@ map MAP71 lookup "HUSTR_PLACE"
 }
 
 // Presidental Palace
-map MAP72 lookup "HUSTR_PLACE"
+map MAP72 lookup "HUSTR_PRESIDENT"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -973,7 +973,7 @@ map MAP72 lookup "HUSTR_PLACE"
 }
 
 // Forest
-map MAP73 lookup "HUSTR_PLACE"
+map MAP73 lookup "HUSTR_FOREST"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -986,7 +986,7 @@ map MAP73 lookup "HUSTR_PLACE"
 }
 
 // EggMan Land
-map MAP74 lookup "HUSTR_PLACE"
+map MAP74 lookup "HUSTR_ELZ"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -999,7 +999,7 @@ map MAP74 lookup "HUSTR_PLACE"
 }
 
 // Icy Tundra
-map MAP75 lookup "HUSTR_PLACE"
+map MAP75 lookup "HUSTR_ITZ"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -1012,7 +1012,7 @@ map MAP75 lookup "HUSTR_PLACE"
 }
 
 // The MechaSonic Zone
-map MAP76 lookup "HUSTR_PLACE"
+map MAP76 lookup "HUSTR_TMZ"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP01"
@@ -1077,7 +1077,7 @@ map MAP80 lookup "HUSTR_S2SZ4"
 }
 
 // The EggMan Zone
-map MAP81 lookup "HUSTR_PLACE"
+map MAP81 lookup "HUSTR_TEZ"
 {
 	titlepatch = "LVL_PLACE"
 	next = "MAP82"
@@ -1376,7 +1376,7 @@ map MAPA3 lookup "HUSTR_HPZ1"
 }
 
 // Secret (not telling)
-map MAPA4 lookup "HUSTR_PLACE"
+map MAPA4 lookup "HUSTR_SECRET"
 {
 	titlepatch = "LVL_SECRET"
 	next = "MAP01"
