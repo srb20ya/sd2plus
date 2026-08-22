@@ -1,7 +1,7 @@
 // TODO: Make custom CWILV lumps for the new levels (past MAP31)
 
 clearepisodes
-episode map01
+episode map00
 {
 	name = "Bots On Mobius"
 	key = "h"
@@ -21,7 +21,7 @@ gameinfo
 // Sonic World
 map MAP00 lookup "HUSTR_SWZ"
 {
-	titlepatch = "CWILVPL"
+	titlepatch = "CWILVSW"
 	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "SKY0"
