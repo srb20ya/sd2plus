@@ -12,3 +12,5 @@ switch doom 1 SW1EMER on pic SW2EMER tics 0
 switch doom 1 SW1MMG on pic SW2MMG tics 0
 switch doom 1 SW1HTOP on pic SW2HTOP tics 0
 switch doom 1 SW1STAR on pic SW2STAR tics 0
+switch doom 1 SW1ARZ0 on pic SW2ARZ0 tics 0
+switch doom 1 SW1ARZ1 on pic SW2ARZ1 tics 0

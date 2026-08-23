@@ -4499,6 +4499,44 @@ Texture ARUIN1, 64, 64
 	Patch ARUIN1, 0, 0
 }
 
+Texture ARUIN2, 128, 128
+{
+	Patch ARUIN2, 0, 0
+}
+
+Texture ARUIN3, 64, 32
+{
+	Patch ARUIN3, 0, 0
+}
+
+Texture ARUIN4, 128, 128
+{
+	Patch ARUIN4, 0, 0
+}
+
+Texture ARUIN4B, 128, 512
+{
+	Patch ARUIN4, 0, 0
+	Patch ARUIN2, 0, 128
+	Patch ARUIN2, 0, 256
+	Patch ARUIN2, 0, 384
+}
+
+Texture ARUIN5, 128, 128
+{
+	Patch ARUIN5, 0, 0
+}
+
+Texture ARUIN6, 128, 128
+{
+	Patch ARUIN6, 0, 0
+}
+
+Texture ARUIN7, 192, 192
+{
+	Patch ARUIN7, 0, 0
+}
+
 Texture SWORLD1, 64, 64
 {
 	Patch SWORLD1, 0, 0
@@ -5093,6 +5131,30 @@ Texture SW1HTOP, 128, 128
 Texture SW2HTOP, 128, 128
 {
 	Patch HTZ2, 0, 0
+	Patch DBUTYES, 32, 32
+}
+
+Texture SW1ARZ0, 128, 128
+{
+	Patch ARUIN6, 0, 0
+	Patch DBUTNO, 32, 32
+}
+
+Texture SW2ARZ0, 128, 128
+{
+	Patch ARUIN6, 0, 0
+	Patch DBUTYES, 32, 32
+}
+
+Texture SW1ARZ1, 128, 128
+{
+	Patch ARUIN2, 0, 0
+	Patch DBUTNO, 32, 32
+}
+
+Texture SW2ARZ1, 128, 128
+{
+	Patch ARUIN2, 0, 0
 	Patch DBUTYES, 32, 32
 }
 
