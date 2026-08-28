@@ -122,6 +122,85 @@ class EHZFlowerD : Actor
 	}
 }
 
+// Casino Night Zone
+
+class CNZPalmtree : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    CNZD A 10;
+			CNZD B 10;
+			CNZD C 10;
+		    Loop;
+	}
+}
+
+// TODO: Make this spawn off the ground at a random offset
+class CNZMilesSign : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    CNZD D 10;
+			CNZD E 10;
+			CNZD F 10;
+		    Loop;
+	}
+}
+
+// TODO: Make this spawn off the ground at a random offset
+class CNZSonicSign : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    CNZD G 10;
+			CNZD H 10;
+			CNZD I 10;
+		    Loop;
+	}
+}
+
+// Too lazy to make this animate
+class CNZPlant : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    CNZD J 10;
+		    Loop;
+	}
+}
+
 // Hill Top Zone
 
 class HTZBush : Actor
@@ -422,6 +501,26 @@ class SLZPole : Actor
 	{
 		Spawn:
 		    SLZP A 10;
+		    Loop;
+	}
+}
+
+// Hidden Palace
+
+// TODO: Give this the right height/radius
+class HPZEmerald : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        +SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    HPZD A 10;
 		    Loop;
 	}
 }

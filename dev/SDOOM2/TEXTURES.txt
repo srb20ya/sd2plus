@@ -4537,6 +4537,141 @@ Texture ARUIN7, 192, 192
 	Patch ARUIN7, 0, 0
 }
 
+Texture CNZ1, 128, 128
+{
+	Patch CNZ1, 0, 0
+}
+
+Texture CNZ2, 128, 128
+{
+	Patch CNZ2, 0, 0
+}
+
+Texture CNZ3, 64, 64
+{
+	Patch CNZ3, 0, 0
+}
+
+Texture CNZ4, 128, 128
+{
+	Patch CNZ4, 0, 0
+}
+
+Texture CNZ5, 384, 384
+{
+	Patch CNZ5, 0, 0
+}
+
+Texture CNZ6, 128, 128
+{
+	Patch CNZ6, 0, 0
+}
+
+Texture MCZ1, 128, 128
+{
+	Patch MCZ1, 0, 0
+}
+
+Texture MCZ2, 128, 128
+{
+	Patch MCZ2, 0, 0
+}
+
+Texture MCZ3, 128, 128
+{
+	Patch MCZ3, 0, 0
+}
+
+Texture MCZ4, 128, 128
+{
+	Patch MCZ4, 0, 0
+}
+
+Texture MCZ5, 64, 64
+{
+	Patch MCZ5, 0, 0
+}
+
+Texture HPBRIDG1, 32, 32
+{
+	Patch HPBRIDG1, 0, 0
+}
+
+Texture HPBRIDG2, 32, 32
+{
+	Patch HPBRIDG2, 0, 0
+}
+
+Texture HPBRIDG3, 32, 32
+{
+	Patch HPBRIDG3, 0, 0
+}
+
+Texture HPPIANO, 512, 256
+{
+	Patch HPPIANO, 0, 0
+}
+
+Texture HPPIANO, 512, 256
+{
+	Patch HPPIANO, 0, 0
+}
+
+Texture HPZPLAT2, 512, 256
+{
+	Patch HPZPLAT2, 0, 0
+}
+
+Texture HPZBLOK, 64, 64
+{
+	Patch HPZBLOK, 0, 0
+}
+
+Texture HPZBLOK2, 64, 64
+{
+	Patch HPZBLOK2, 0, 0
+}
+
+Texture HPZPILL2, 32, 32
+{
+	Patch HPZPILL2, 0, 0
+}
+
+Texture HPZPLAT2, 128, 128
+{
+	Patch HPZPLAT2, 0, 0
+}
+
+Texture HPZROCK, 128, 128
+{
+	Patch HPZROCK, 0, 0
+}
+
+Texture HPZWALL4, 128, 128
+{
+	Patch HPZWALL4, 0, 0
+}
+
+Texture HPZWALL5, 128, 128
+{
+	Patch HPZWALL5, 0, 0
+}
+
+Texture HPZWALL6, 128, 128
+{
+	Patch HPZWALL6, 0, 0
+}
+
+Texture HPZWALL7, 128, 128
+{
+	Patch HPZWALL7, 0, 0
+}
+
+Texture HPZWALL8, 128, 128
+{
+	Patch HPZWALL8, 0, 0
+}
+
 Texture SWORLD1, 64, 64
 {
 	Patch SWORLD1, 0, 0
@@ -5438,6 +5573,11 @@ Texture SKY96, 256, 128
 Texture SKY97, 256, 128
 {
 	Patch SKY96, 0, 0
+}
+
+Texture SKYA3, 1024, 376
+{
+	Patch SKYA3, 0, 0
 }
 
 // it's picover...

@@ -590,7 +590,7 @@ map MAP43 lookup "HUSTR_MCZ1"
 	sky1 = "SKY43"
 	cluster = 10
 	par = 30
-	music = "D_ICZ1"
+	music = "D_MCZ1"
 
 }
 
@@ -599,11 +599,11 @@ map MAP44 lookup "HUSTR_MCZ2"
 {
 	titlepatch = "LVL_MCZ2"
 	next = "MAP45"
-	secretnext = "MAP45"
+	secretnext = "MAPA3" // Secret exit to Hidden Palace
 	sky1 = "SKY44"
 	cluster = 10
 	par = 30
-	music = "D_ICZ1"
+	music = "D_MCZ2"
 
 }
 
@@ -1366,12 +1366,12 @@ map MAPA2 lookup "HUSTR_BOB"
 map MAPA3 lookup "HUSTR_HPZ1"
 {
 	titlepatch = "LVL_HPZ"
-	next = "MAP01"
-	secretnext = "MAP01"
-	sky1 = "SKY1"
+	next = "MAP45"
+	secretnext = "MAP45"
+	sky1 = "SKYA3"
 	cluster = 15
 	par = 30
-	music = "D_ICZ1"
+	music = "D_HPZ1"
 
 }
 
@@ -1482,21 +1482,6 @@ cluster 15
 
 DoomEdNums
 {
-	// Stardust Speedway (Bad Future)
-    100 = "SSZBDecoA"
-    101 = "SSZBDecoB"
-	// Green Hill
-	102 = "GHZDecoA"
-	103 = "GHZDecoB"
-	104 = "GHZDecoC"
-	105 = "GHZDecoD"
-	106 = "GHZDecoE"
-	107 = "GHZSign"
-	// Metallic Madness (Good Future)
-	108 = "MMZGDecoA"
-	109 = "MMZGDecoB"
-	110 = "MMZGDecoC"
-	111 = "MMZGDecoD"
 	// Emerald Hill
 	112 = "EHZBush"
 	113 = "EHZTree"
@@ -1505,16 +1490,38 @@ DoomEdNums
 	115 = "EHZFlowerB"
 	116 = "EHZFlowerC"
 	117 = "EHZFlowerD"
+	// Casino Night
+	125 = "CNZPalmtree"
+	126 = "CNZMilesSign"
+	127 = "CNZSonicSign"
+	128 = "CNZPlant"
 	// Hill Top
 	118 = "HTZBush"
 	119 = "HTZTree"
+	// Stardust Speedway (Bad Future)
+    100 = "SSZBDecoA"
+    101 = "SSZBDecoB"
+	// Metallic Madness (Good Future)
+	108 = "MMZGDecoA"
+	109 = "MMZGDecoB"
+	110 = "MMZGDecoC"
+	111 = "MMZGDecoD"
 	// Sonic CD Special Stage
 	123 = "CDSSUFO_A"
 	124 = "CDSSUFO_B"
+	// Green Hill
+	102 = "GHZDecoA"
+	103 = "GHZDecoB"
+	104 = "GHZDecoC"
+	105 = "GHZDecoD"
+	106 = "GHZDecoE"
+	107 = "GHZSign"
 	// Star Light
 	120 = "SLZBushA"
 	121 = "SLZBushB"
 	122 = "SLZPole"
+	// Hidden Palace
+	129 = "HPZEmerald"
 	// Well, there is a marine here.
 	// He offered you something.
 	6113 = "MANTree"
