@@ -1297,6 +1297,14 @@ Texture SAND, 128, 128
 	Patch SAND, 64, 64
 }
 
+Texture SAND2, 128, 128
+{
+	Patch SAND2, 0, 0
+	Patch SAND2, 64, 0
+	Patch SAND2, 0, 64
+	Patch SAND2, 64, 64
+}
+
 Texture PLANWALL, 128, 128
 {
 	Patch PLANWALL, 0, 0
@@ -5078,7 +5086,7 @@ Texture YLLWDOOR, 32, 64
 
 // Sorry mate but I don't want to segregate the textures
 
-Texture EMHILL1, 128, 128
+Texture EMHILL1, 256, 256
 {
 	Patch EMHILL1, 0, 0
 }
@@ -5146,22 +5154,22 @@ Texture EHFALL4, 128, 128
 	Patch EHFALL4, 0, 0
 }
 
-Texture EHINSD1, 128, 128
+Texture EHINSD1, 256, 256
 {
 	Patch EHINSD1, 0, 0
 }
 
-Texture EHINSD2, 128, 128
+Texture EHINSD2, 256, 256
 {
 	Patch EHINSD2, 0, 0
 }
 
-Texture EHINSD3, 128, 128
+Texture EHINSD3, 256, 256
 {
 	Patch EHINSD3, 0, 0
 }
 
-Texture EHINSD4, 128, 128
+Texture EHINSD4, 256, 256
 {
 	Patch EHINSD4, 0, 0
 }
@@ -5237,22 +5245,22 @@ Texture HTFALL4, 128, 128
 	Patch HTFALL4, 0, 0
 }
 
-Texture HTINSD1, 128, 128
+Texture HTINSD1, 256, 256
 {
 	Patch HTINSD1, 0, 0
 }
 
-Texture HTINSD2, 128, 128
+Texture HTINSD2, 256, 256
 {
 	Patch HTINSD2, 0, 0
 }
 
-Texture HTINSD3, 128, 128
+Texture HTINSD3, 256, 256
 {
 	Patch HTINSD3, 0, 0
 }
 
-Texture HTINSD4, 128, 128
+Texture HTINSD4, 256, 256
 {
 	Patch HTINSD4, 0, 0
 }

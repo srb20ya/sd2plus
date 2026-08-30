@@ -1506,6 +1506,10 @@ DoomEdNums
 	109 = "MMZGDecoB"
 	110 = "MMZGDecoC"
 	111 = "MMZGDecoD"
+	// Isolated Island
+	130 = "IIZBush"
+	131 = "IIZTree"
+	132 = "IIZPlant"
 	// Sonic CD Special Stage
 	123 = "CDSSUFO_A"
 	124 = "CDSSUFO_B"

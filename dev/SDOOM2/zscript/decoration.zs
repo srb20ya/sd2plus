@@ -344,6 +344,58 @@ class MMZGDecoD : Actor
 	}
 }
 
+
+class IIZPlant : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    IIZD A 10;
+		    Loop;
+	}
+}
+
+class IIZTree : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    IIZD B 10;
+		    Loop;
+	}
+}
+
+class IIZBush : Actor
+{
+    Default
+    {
+        Height 40;
+        Radius 20;
+        -SOLID;
+    }
+
+	States
+	{
+		Spawn:
+		    IIZD C 10;
+		    Loop;
+	}
+}
+
 // Green Hill Zone
 
 class GHZDecoA : Actor
